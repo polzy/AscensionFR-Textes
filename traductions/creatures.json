@@ -934,7 +934,7 @@
   "N": "Gueule de Feu"
  },
  "1012017": {
-  "N": "Lashlayer seigneur des couvées"
+  "N": "Seigneur des couvées Lashlayer"
  },
  "1012129": {
   "N": "Gardien onyxien"
@@ -1076,11 +1076,11 @@
   "S": "Naxx80"
  },
  "1016011": {
-  "N": "Loatheb (2)",
+  "N": "Horreb (2)",
   "S": "Naxx80"
  },
  "1016028": {
-  "N": "Travail de patchwork (2)",
+  "N": "Le Recousu (2)",
   "S": "Naxx80"
  },
  "1016064": {
@@ -1544,7 +1544,7 @@
   "S": "Naxx80"
  },
  "1092153": {
-  "N": "Noth le porteur de la peste (2)",
+  "N": "Noth le Porte-Peste (2)",
   "S": "Naxx80"
  },
  "1092158": {
@@ -2454,7 +2454,7 @@
   "S": "Naxx80"
  },
  "1116028": {
-  "N": "Travail de patchwork (3)",
+  "N": "Le Recousu (3)",
   "S": "Naxx80"
  },
  "1116060": {
@@ -2500,7 +2500,7 @@
   "S": "BWL"
  },
  "112017": {
-  "N": "Lashlayer seigneur des couvées (1)",
+  "N": "Seigneur des couvées Lashlayer (1)",
   "S": "BWL"
  },
  "112268": {
@@ -2855,7 +2855,7 @@
   "N": "Tronc de marée de Tuskarr"
  },
  "117879": {
-  "N": "Chrono Seigneur Deja (1)",
+  "N": "Chronoseigneur Déjà (1)",
   "S": "BM"
  },
  "117882": {
@@ -2892,7 +2892,7 @@
   "S": "Sethekk"
  },
  "118473": {
-  "N": "Roi Talon Ikiss (1)",
+  "N": "Roi-serre Ikiss (1)",
   "S": "Sethekk"
  },
  "11855": {
@@ -5344,7 +5344,7 @@
   "N": "Proto-Drake asservi (1)"
  },
  "148137": {
-  "N": "Proto Drake perdu dans le temps"
+  "N": "Proto-drake perdu dans le temps"
  },
  "148138": {
   "N": "Vyragosa"
@@ -11559,7 +11559,7 @@
   "S": "BWL"
  },
  "212017": {
-  "N": "Lashlayer seigneur des couvées (2)",
+  "N": "Seigneur des couvées Lashlayer (2)",
   "S": "BWL"
  },
  "212268": {
@@ -11689,11 +11689,11 @@
   "S": "Naxx60"
  },
  "215954": {
-  "N": "Noth le porteur de la peste (2)",
+  "N": "Noth le Porte-Peste (2)",
   "S": "Naxx60"
  },
  "216011": {
-  "N": "Loatheb (2)",
+  "N": "Horreb (2)",
   "S": "Naxx60"
  },
  "216064": {
@@ -11887,7 +11887,7 @@
   "S": "Sethekk"
  },
  "218473": {
-  "N": "Roi Talon Ikiss (2)",
+  "N": "Roi-serre Ikiss (2)",
   "S": "Sethekk"
  },
  "218929": {
@@ -15544,7 +15544,7 @@
   "S": "Naxx60"
  },
  "292155": {
-  "N": "Loatheb (2)",
+  "N": "Horreb (2)",
   "S": "Naxx60"
  },
  "292161": {
@@ -15552,7 +15552,7 @@
   "S": "Naxx60"
  },
  "292162": {
-  "N": "Travail de patchwork (2)",
+  "N": "Le Recousu (2)",
   "S": "Naxx60"
  },
  "292261": {
@@ -16172,7 +16172,7 @@
   "S": "BWL"
  },
  "312017": {
-  "N": "Lashlayer seigneur des couvées (3)",
+  "N": "Seigneur des couvées Lashlayer (3)",
   "S": "BWL"
  },
  "31214": {
@@ -19452,7 +19452,7 @@
  },
  "41674": {
   "N": "Razzia Peltripper",
-  "S": "Entraîneur de dépouillement"
+  "S": "Maître des dépeceurs"
  },
  "41676": {
   "N": "Importateur Sprocketspring",
@@ -19623,7 +19623,7 @@
  },
  "41741": {
   "N": "Kimotah",
-  "S": "Entraîneur de dépouillement"
+  "S": "Maître des dépeceurs"
  },
  "41746": {
   "N": "Maître brasseur nain"
@@ -21335,7 +21335,7 @@
   "N": "Gueule de Feu"
  },
  "43801": {
-  "N": "Lashlayer seigneur des couvées"
+  "N": "Seigneur des couvées Lashlayer"
  },
  "43803": {
   "N": "Ursol’lok"
@@ -21782,7 +21782,7 @@
   "N": "Répugnant"
  },
  "44003": {
-  "N": "Travail de patchwork"
+  "N": "Le Recousu"
  },
  "44004": {
   "N": "Seigneur Valthalak"
@@ -21968,7 +21968,7 @@
   "N": "Syth tisse-sombre"
  },
  "44127": {
-  "N": "Roi Talon Ikiss"
+  "N": "Roi-serre Ikiss"
  },
  "44131": {
   "N": "Cœur Noir l'Incitateur"
@@ -22310,7 +22310,7 @@
   "N": "Ancien Nadox"
  },
  "44468": {
-  "N": "Jedoga Chercheur d'Ombres"
+  "N": "Jedoga Cherchelombre"
  },
  "44469": {
   "N": "Héraut Volazj"
@@ -22358,10 +22358,10 @@
   "N": "Corne de glace"
  },
  "44595": {
-  "N": "Perobas le Soif de Sang"
+  "N": "Perobas le Carnassier"
  },
  "44596": {
-  "N": "Vigdis la jeune fille de guerre"
+  "N": "Vigdis la Vierge de guerre"
  },
  "44597": {
   "N": "Roi Ping"
@@ -22370,7 +22370,7 @@
   "N": "Tukemuth"
  },
  "44601": {
-  "N": "Survivant fou d'Indu'le"
+  "N": "Survivant d'Indu'le affolé"
  },
  "44602": {
   "N": "Généralissime écarlate Daion"
@@ -22403,7 +22403,7 @@
   "N": "Putridus l'Ancien"
  },
  "44616": {
-  "N": "Proto Drake perdu dans le temps"
+  "N": "Proto-drake perdu dans le temps"
  },
  "44617": {
   "N": "Hildana Voleuse de Mort"
@@ -22421,7 +22421,7 @@
   "N": "Vyragosa"
  },
  "44632": {
-  "N": "L'invocateur des tempêtes Brundir"
+  "N": "Mande-foudre Brundir"
  },
  "44634": {
   "N": "Brise-acier"
@@ -23447,7 +23447,7 @@
   "N": "Gueule de Feu"
  },
  "45989": {
-  "N": "Lashlayer seigneur des couvées"
+  "N": "Seigneur des couvées Lashlayer"
  },
  "45990": {
   "N": "Contremaître Springsocket"
@@ -23703,7 +23703,7 @@
  },
  "46622": {
   "N": "Gert Leathersunder",
-  "S": "Entraîneur de dépouillement"
+  "S": "Maître des dépeceurs"
  },
  "46634": {
   "N": "Thedrieth Leafeye",
@@ -28745,7 +28745,7 @@
   "N": "Cavalier écarlate"
  },
  "7340": {
-  "N": "Shadowcaster squelettique invoqué"
+  "N": "Exhalombre squelettique invoqué"
  },
  "73400": {
   "N": "Cavalier écarlate"
@@ -29565,7 +29565,7 @@
  },
  "764534": {
   "N": "Grundar écorcheur de pierre",
-  "S": "Entraîneur de dépouillement"
+  "S": "Maître des dépeceurs"
  },
  "764535": {
   "N": "Bûcheron du camp Coldhewn"
@@ -32121,7 +32121,7 @@
   "N": "Heigan l'Impur"
  },
  "816028": {
-  "N": "Travail de patchwork"
+  "N": "Le Recousu"
  },
  "816060": {
   "N": "Gothik le moissonneur"
@@ -33317,7 +33317,7 @@
   "S": "Les trucs de Frey"
  },
  "875000": {
-  "N": "Minion marcheur du Vide"
+  "N": "Sbire marcheur du Vide"
  },
  "875001": {
   "N": "Minion Diablotin"
@@ -33478,7 +33478,7 @@
   "S": "Ombre de Naxxramas"
  },
  "892162": {
-  "N": "Travail de patchwork",
+  "N": "Le Recousu",
   "S": "Ombre de Naxxramas"
  },
  "892163": {
@@ -35394,7 +35394,7 @@
   "N": "Garde Beckand"
  },
  "992155": {
-  "N": "Loatheb (1)",
+  "N": "Horreb (1)",
   "S": "Naxx80"
  },
  "992156": {
@@ -35402,7 +35402,7 @@
   "S": "Naxx80"
  },
  "992162": {
-  "N": "Travail de patchwork (1)",
+  "N": "Le Recousu (1)",
   "S": "Naxx80"
  },
  "992163": {
@@ -35889,7 +35889,7 @@
  },
  "9992": {
   "N": "Janee Gigadirt",
-  "S": "Entraîneur de dépouillement"
+  "S": "Maître des dépeceurs"
  },
  "999298": {
   "N": "Araignée"
