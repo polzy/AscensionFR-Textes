@@ -756,7 +756,7 @@
   "N": "Hurlevent"
  },
  "10083": {
-  "N": "Comté-de-l'Or"
+  "N": "Comté-de-l’or"
  },
  "101101": {
   "N": "L'enchantement et toi"
@@ -2334,7 +2334,7 @@
   "N": "Chaussures plates chatoyantes"
  },
  "151981": {
-  "N": "Port Gentevapeur"
+  "N": "Port Gentepression"
  },
  "151982": {
   "N": "Gadgetzan"
@@ -2439,7 +2439,7 @@
   "N": "Flacon de Poison Grand 2"
  },
  "1631": {
-  "N": "Moulins Agamand"
+  "N": "Moulins d'Agamand"
  },
  "163313": {
   "N": "Boîte aux lettres"
@@ -2919,13 +2919,13 @@
   "N": "Faille gangrenée à Fossoyeuse"
  },
  "176592": {
-  "N": "Piège à coquillages"
+  "N": "Casier à crustacés"
  },
  "176632": {
   "N": "Porte"
  },
  "176642": {
-  "N": "Les larmes d'Arthas"
+  "N": "Larmes d'Arthas"
  },
  "176750": {
   "N": "Os de Kodo"
@@ -2952,7 +2952,7 @@
   "N": "Brasero Naga (piège"
  },
  "178400": {
-  "N": "Portail Maraudon"
+  "N": "Portail de Maraudon"
  },
  "178673": {
   "N": "Piège à flammes dévorantes"
@@ -3000,7 +3000,7 @@
   "N": "Tête coupée de Néfarian"
  },
  "179900": {
-  "N": "Dégâts Grand Feu de joie"
+  "N": "Gros dégâts Feu de joie"
  },
  "179964": {
   "N": "Bientôt - la foire de Sombrelune !"
@@ -3336,7 +3336,7 @@
   "N": "Piège d'apparition du feu de joie du solstice d'été 2"
  },
  "181378": {
-  "N": "Œuf de faucon-dragon"
+  "N": "Oeuf de faucon-dragon"
  },
  "181381": {
   "N": "Boîte aux lettres"
@@ -3513,19 +3513,19 @@
   "N": "Île de Shalandis"
  },
  "181967": {
-  "N": "La Flèche Solaire"
+  "N": "La flèche solaire"
  },
  "181968": {
   "N": "Académie de Falthrien"
  },
  "181969": {
-  "N": "Sanctuaire Septentrional"
+  "N": "Sanctum septentrional"
  },
  "181970": {
-  "N": "Sanctuaire Occidental"
+  "N": "Sanctum occidental"
  },
  "181971": {
-  "N": "Brise-Clémentée"
+  "N": "Brise-clémente"
  },
  "181972": {
   "N": "Mouillage des Voiles du Soleil"
@@ -3534,7 +3534,7 @@
   "N": "Les Terres Fantômes"
  },
  "181974": {
-  "N": "Brise-Clémentée"
+  "N": "Brise-clémente"
  },
  "181975": {
   "N": "Mouillage des Voiles du Soleil"
@@ -4695,7 +4695,7 @@
   "N": "Coffre-fort de guilde"
  },
  "187457": {
-  "N": "Braséro des flammes dansantes"
+  "N": "Brasero des flammes dansantes"
  },
  "187564": {
   "N": "Feu de joie de l'Alliance"
@@ -4866,7 +4866,7 @@
   "N": "Boîte aux lettres"
  },
  "19577": {
-  "N": "La vallée carbonisée"
+  "N": "Le Val calciné"
  },
  "1960": {
   "N": "Feu de camp"
@@ -4881,22 +4881,22 @@
   "N": "Prop RPG en anneau pillé"
  },
  "19848": {
-  "N": "Poste de vent libre"
+  "N": "Poste de Librevent"
  },
  "19849": {
-  "N": "Les appartements chatoyants"
+  "N": "Les Salines"
  },
  "19850": {
   "N": "Tanaris"
  },
  "19851": {
-  "N": "Le grand ascenseur"
+  "N": "La Grande élévation"
  },
  "19852": {
   "N": "Les Tarides"
  },
  "19853": {
-  "N": "Poste de vent libre"
+  "N": "Poste de Librevent"
  },
  "19854": {
   "N": "Les Tarides"
@@ -4908,7 +4908,7 @@
   "N": "Les Tarides"
  },
  "19857": {
-  "N": "Les appartements chatoyants"
+  "N": "Les Salines"
  },
  "19858": {
   "N": "Thalanar"
@@ -10629,10 +10629,10 @@
   "N": "Boisson à l'ananas gobelin (échelle 2)"
  },
  "4102": {
-  "N": "Le carrefour"
+  "N": "La Croisée"
  },
  "4103": {
-  "N": "Montagnes Serres-de-Pierre"
+  "N": "Les Serres-Rocheuses"
  },
  "412000": {
   "N": "Tableau d'appel du héros"
@@ -13368,7 +13368,7 @@
   "N": "Statue ancienne"
  },
  "67234": {
-  "N": "Totem de Feu"
+  "N": "Totem de feu"
  },
  "67241": {
   "N": "Soie d'araignée"

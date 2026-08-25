@@ -11645,7 +11645,7 @@
   "N": "Alarme mobile"
  },
  "10723": {
-  "N": "Radio amateur gnome"
+  "N": "Petite radio gnome"
  },
  "107282": {
   "N": "Arme - Sword_2H_DraenorQuest_B_01 - Bleu"
@@ -29953,7 +29953,7 @@
   "N": "Xal'atath, Lame de l'Empire Noir"
  },
  "12886": {
-  "N": "Tête de poupée de Pamela"
+  "N": "Tête de la poupée de Pamela"
  },
  "128861": {
   "N": "Frappe des Titans"
@@ -29971,13 +29971,13 @@
   "N": "Montre Élu"
  },
  "12887": {
-  "N": "La poupée de Pamela, côté gauche"
+  "N": "Flanc gauche de la poupée de Pamela"
  },
  "128872": {
   "N": "Les Dreadblades"
  },
  "12888": {
-  "N": "La poupée de Pamela, côté droit"
+  "N": "Flanc droit de la poupée de Pamela"
  },
  "128908": {
   "N": "Lame du tueur de dragon (Ambre)"
@@ -56742,7 +56742,7 @@
   "N": "Réplique du Croc du Lion"
  },
  "14100": {
-  "N": "Robe en tissu brillant"
+  "N": "Robe en étoffe lumineuse"
  },
  "141000": {
   "N": "Réplique Coeur de Lion"
@@ -56763,7 +56763,7 @@
   "N": "Jambières majestueuses du gladiateur pécheur"
  },
  "14104": {
-  "N": "Pantalon en tissu brillant"
+  "N": "Pantalon en étoffe lumineuse"
  },
  "141074": {
   "N": "Mantelet majestueux du gladiateur pécheur"
@@ -58426,7 +58426,7 @@
   "N": "Tunique de sabre-de-givre"
  },
  "15069": {
-  "N": "Jambières de sabre de givre"
+  "N": "Jambières de sabre-de-givre"
  },
  "15070": {
   "N": "Gants de sabre-de-givre"
@@ -64786,7 +64786,7 @@
   "N": "Parchemin des marées violentes"
  },
  "17014": {
-  "N": "Brassards et sombrefers"
+  "N": "Brassards en sombrefer"
  },
  "170201": {
   "N": "Parchemin de la marée profonde"
@@ -65029,7 +65029,7 @@
   "N": "Bague de Précisia"
  },
  "17064": {
-  "N": "Éclat de l'écaille"
+  "N": "Eclat de l'écaille"
  },
  "17065": {
   "N": "Médaillon de puissance inébranlable"
@@ -69570,7 +69570,7 @@
   "N": "Massue à pointes"
  },
  "18746": {
-  "N": "Divination Scryer : Chevalier de la mort Darkreaver"
+  "N": "Clairvoyant"
  },
  "187477": {
   "D": "@Mythique@",
@@ -77118,7 +77118,7 @@
   "N": "Parchemin de magie du Fléau"
  },
  "20472": {
-  "N": "Journal de Solanien"
+  "N": "Journal de Solanian"
  },
  "20474": {
   "N": "Sacoche de livres de Haut-Soleil"
@@ -109364,7 +109364,7 @@
   "N": "Anneau doré du dragon"
  },
  "20956": {
-  "N": "Pendentif Rose en Argent"
+  "N": "Pendentif à la rose d'argent"
  },
  "209595": {
   "D": "@Mythique@"
@@ -109379,10 +109379,10 @@
   "N": "Aigue-marine coupée"
  },
  "20963": {
-  "N": "Filigrane et mithril"
+  "N": "Filigrane en mithril"
  },
  "20964": {
-  "N": "Chevalière d'Aigue Marine"
+  "N": "Chevalière d'aigue-marine"
  },
  "209647": {
   "D": "@Mythique@",
@@ -113677,7 +113677,7 @@
   "N": "Clé du coffre du Grand Scarabée"
  },
  "21764": {
-  "N": "Pendentif en rubis de feu"
+  "N": "Pendentif de rubis de feu"
  },
  "217674": {
   "N": "Récoltes brûlées"
@@ -113865,7 +113865,7 @@
   "N": "Kris de la Flamme Corrompue"
  },
  "21785": {
-  "N": "Émeraude coupée"
+  "N": "Emeraude taillée"
  },
  "217850": {
   "N": "Fusil infusé gangrené"
@@ -113874,7 +113874,7 @@
   "N": "Classique Junglewood"
  },
  "21786": {
-  "N": "Diamant azérothien taillé"
+  "N": "Diamant d'Azeroth taillé"
  },
  "217860": {
   "D": "@Mondeforgé@",
@@ -113947,7 +113947,7 @@
   "N": "Manilles du Golem runique"
  },
  "21793": {
-  "N": "Pendentif épée en arcanite"
+  "N": "Pendentif de l'épée en arcanite"
  },
  "217932": {
   "D": "@Mythique 5@"
@@ -114480,7 +114480,7 @@
   "D": "@Mythique 14@"
  },
  "21840": {
-  "N": "Rouleau de tissu-néant"
+  "N": "Rouleau de tisse-néant"
  },
  "218403": {
   "D": "@Raid Ascendant@",
@@ -114494,25 +114494,25 @@
   "D": "@Raid Ascensionné@"
  },
  "21841": {
-  "N": "Sac en tissu-néant"
+  "N": "Sac en tisse-néant"
  },
  "218411": {
   "N": "Sacoche aguerrie"
  },
  "21842": {
-  "N": "Rouleau de tissu-néant imprégné"
+  "N": "Rouleau de tisse-néant imprégné"
  },
  "21843": {
-  "N": "Sac en tissu-néant imprégné"
+  "N": "Sac en tisse-néant imprégné"
  },
  "21849": {
-  "N": "Brassards en tissé-néant"
+  "N": "Brassards en tisse-néant"
  },
  "21850": {
-  "N": "Ceinture en tissu-néant"
+  "N": "Ceinture en tisse-néant"
  },
  "21851": {
-  "N": "Gants en tissu-néant"
+  "N": "Gants en tisse-néant"
  },
  "218525": {
   "D": "@Donjon Héroïque@",
@@ -114522,7 +114522,7 @@
   "D": "@Donjon Mythique@"
  },
  "21853": {
-  "N": "Bottes en tissu-néant"
+  "N": "Bottes en tisse-néant"
  },
  "218532": {
   "D": "@Mythique 6@"
@@ -114810,7 +114810,7 @@
   "D": "@Raid Ascensionné@"
  },
  "21891": {
-  "N": "Éclat de l'étoile tombée"
+  "N": "Eclat de l'étoile tombée"
  },
  "219017": {
   "D": "@Raid Ascensionné@",
@@ -114902,7 +114902,7 @@
   "N": "Gemme de vivification de l'esprit"
  },
  "21934": {
-  "N": "Collier d'œil de tigre orné"
+  "N": "Collier d’œil de tigre orné"
  },
  "219342": {
   "D": "@Repaire de l'Aile Noire Ascensionné@",
@@ -115315,7 +115315,7 @@
   "D": "@Zul'Gurub l'Ascension@"
  },
  "21990": {
-  "N": "Bandage en tissu-néant"
+  "N": "Bandage en tisse-néant"
  },
  "219900": {
   "D": "@Ascended Zul'Gurub@Porte la marque de Jin."
@@ -115347,7 +115347,7 @@
   "N": "Volonté d'Arlokk"
  },
  "21991": {
-  "N": "Bandage épais en tissu-néant"
+  "N": "Bandage épais en tisse-néant"
  },
  "219910": {
   "D": "@Zul'Gurub l'Ascension@"
@@ -115537,7 +115537,7 @@
   "N": "Croissant"
  },
  "22020": {
-  "N": "QAEnchantement d'arme +15 Agilité"
+  "N": "AQEnchantement d'arme +15 Agilité"
  },
  "2202010": {
   "D": "Vous obtenez des cartes de compétence de Silas Darkmoon !\n\nVous pouvez activer des cartes de compétence dans la collection de cartes de compétence entre les niveaux 1 et 9.",
@@ -115933,7 +115933,7 @@
   "D": "@Mythique 4@"
  },
  "22042": {
-  "N": "QAEnchant Cape -2% Menace"
+  "N": "AQEnchantement de cape -2% Menace"
  },
  "22044": {
   "N": "Émeraude de mana"
@@ -119736,7 +119736,7 @@
   "N": "Infusion de plaie-du-Fléau"
  },
  "22779": {
-  "N": "Breuvage de plâtre-du-Fléau"
+  "N": "Breuvage de plaie-du-Fléau"
  },
  "22780": {
   "D": "Vous apprendrez à invoquer cette mascotte.",
@@ -121911,13 +121911,13 @@
   "N": "Extracteur de granules Zappeur-Gazier"
  },
  "23831": {
-  "N": "Contrôleur Gobelin Tonk"
+  "N": "Commande de chariotte gobeline"
  },
  "23832": {
-  "N": "Contrôleur de tonk gnome"
+  "N": "Commande de chariotte gnome"
  },
  "23840": {
-  "N": "Terminal Mailles déporté"
+  "N": "Station postale de poche"
  },
  "23855": {
   "N": "Tissu de feu magique"
@@ -122158,7 +122158,7 @@
  },
  "24033": {
   "D": "Correspond à une châsse bleue.",
-  "N": "Étoile d'Élune solide"
+  "N": "Etoile d’Élune solide"
  },
  "24036": {
   "D": "Correspond à une chasse rouge.",
@@ -122306,7 +122306,7 @@
   "N": "Branche arachnidienne"
  },
  "24128": {
-  "N": "Figurine de panthère d'œil de nuit"
+  "N": "Figurine de panthère d’œil de nuit"
  },
  "24129": {
   "N": "Ceinture en cuir récupérée"
@@ -122659,7 +122659,7 @@
   "D": "@Mythique@"
  },
  "24269": {
-  "N": "Filet lourd en tisse-néant"
+  "N": "Filet épais en tisse-néant"
  },
  "242697": {
   "D": "@Mythique 14@",
@@ -129903,7 +129903,7 @@
   "N": "Perles de guerre en obsidienne"
  },
  "25438": {
-  "N": "Pendentif en malachite"
+  "N": "Pendentif de malachite"
  },
  "254389": {
   "N": "Calice Vitae purifié"
@@ -135325,7 +135325,7 @@
   "D": "@Mythique 13@"
  },
  "27828": {
-  "N": "Broche du scarabée dimensionnelle"
+  "N": "Broche du scarabée dimensionnel"
  },
  "278282": {
   "N": "Dague du filou"
@@ -140843,7 +140843,7 @@
   "N": "Oeil de Gruul"
  },
  "28830": {
-  "N": "Trophée Épine-de-dragon"
+  "N": "Trophée Epine-de-dragon"
  },
  "28873": {
   "N": "Garde-jambes de grand seigneur de guerre en peau de wyrm"
@@ -144727,13 +144727,13 @@
   "D": "@Mythique@"
  },
  "29839": {
-  "N": "QAEnchanter une mangouste d'arme"
+  "N": "AQEnchantement d'arme - Mangouste"
  },
  "29840": {
-  "N": "QAEnchanter une arme Soulfrost"
+  "N": "AQEnchantement d'arme - âme de Givre"
  },
  "29842": {
-  "N": "QAEnchanter une arme +40 dégâts des sorts"
+  "N": "AQEnchantement d'arme +40 dégâts des sorts"
  },
  "298464": {
   "D": "@Héroïque@"
@@ -144745,16 +144745,16 @@
   "N": "QAEnchant Boots +9 Endurance & +8% Vitesse"
  },
  "29857": {
-  "N": "QAEnchantement de bottes +12 Endurance"
+  "N": "AQEnchantement de bottes +12 Endurance"
  },
  "29860": {
-  "N": "QAEEnchantement de cape +12 Agilité"
+  "N": "AQEnchantement de cape +12 Agilité"
  },
  "29861": {
-  "N": "QAEnchant Cape +20 Pénétration des Sorts"
+  "N": "AQEnchantement de cape +20 à la pénétration des sorts"
  },
  "29863": {
-  "N": "QAEnchant Gants +20 Dégâts des Sorts"
+  "N": "AQEnchantement de gants +20 dégâts des sorts"
  },
  "298641": {
   "D": "@Mythique 4@"
@@ -144778,7 +144778,7 @@
   "D": "@Mythic 10@Les diamants azérothiens sont éternels."
  },
  "29874": {
-  "N": "QAEEnchanter coffre +150 points de vie"
+  "N": "AQEnchantement de plastron +150 points de vie"
  },
  "298902": {
   "D": "@Héroïque@"
@@ -145926,7 +145926,7 @@
   "N": "Cape qui donne la vie"
  },
  "30193": {
-  "N": "QAEnchant Ring +12 Dégâts des Sorts"
+  "N": "AQEnchantement d'anneau +12 dégâts des sorts"
  },
  "301973": {
   "N": "Orbe de tromperie"
@@ -146158,7 +146158,7 @@
   "N": "Cache de la clé de la Légion"
  },
  "30446": {
-  "N": "Saphir solarien"
+  "N": "Saphir solarian"
  },
  "30447": {
   "N": "Tome de la rédemption ardente"
@@ -146182,7 +146182,7 @@
   "D": "Vous apprend à invoquer ce compagnon. \n\n C'est un compagnon non combattant.\n \nIls adorent porter leurs petits chapeaux, mais pas trop en une journée. Il faut leur laisser le temps de se pavaner correctement."
  },
  "30450": {
-  "N": "Torsade de ressort dimensionnelle"
+  "N": "Torsade de ressort dimensionnel"
  },
  "3045560": {
   "D": "@Mythique 7@",
@@ -146391,7 +146391,7 @@
   "N": "Brasse-broche du marcheur-des-flots"
  },
  "30664": {
-  "N": "Racine vivante du Coeur-sauvage"
+  "N": "Racine vivante du Cœur-sauvage"
  },
  "30665": {
   "N": "Boucle d'oreille de la méditation expressive"
@@ -147943,7 +147943,7 @@
   "D": "@Raid Héroïque@"
  },
  "31665": {
-  "N": "Mortier RC jouet Tank"
+  "N": "Char mortier jouet télécommandé"
  },
  "316770": {
   "D": "@Raid Héroïque@"
@@ -148732,13 +148732,13 @@
   "N": "Talisman de sang d'Onyxia"
  },
  "31843": {
-  "N": "QAEnchanter un bracelet +24 puissance d'attaque"
+  "N": "QAEnchantement de brassards +24 Puissance d'attaque"
  },
  "31845": {
-  "N": "QAEnchant Bracer +15 dégâts des sorts"
+  "N": "QAEnchantement de brassards +15 Dégâts des sorts"
  },
  "31849": {
-  "N": "QAEnchanter un bracelet +12 Force"
+  "N": "QAEnchantement de brassards +12 Force"
  },
  "318548": {
   "D": "@Onyxia héroïque@"
@@ -150291,7 +150291,7 @@
  },
  "32213": {
   "D": "Correspond à une chasse rouge ou bleue.",
-  "N": "Améthyste chantelombre équilibré"
+  "N": "Améthyste chantelombre équilibrée"
  },
  "32214": {
   "D": "Correspond à une chasse rouge ou bleue.",
@@ -151293,7 +151293,7 @@
   "N": "Martelet du gladiateur impitoyable"
  },
  "32972": {
-  "N": "Lunettes de bière"
+  "N": "Lunettes Cul-de-bouteille"
  },
  "32988": {
   "N": "Ceinture de vétéran ornementée"
@@ -152327,7 +152327,7 @@
   "D": "@Raid héroïque@"
  },
  "33315": {
-  "N": "QAEnchant le bourreau d'armes"
+  "N": "AQEnchantement d'arme - Bourreau"
  },
  "333191": {
   "D": "@Raid Héroïque@",
@@ -153289,7 +153289,7 @@
  },
  "34493": {
   "D": "Vous apprendrez à invoquer cette mascotte.",
-  "N": "Dragon cerf-volant"
+  "N": "Cerf-volant dragon"
  },
  "34499": {
   "N": "Kit de machine volante en papier"
@@ -153564,7 +153564,7 @@
   "N": "Gantelets d'assassin sanglants épiques"
  },
  "34663": {
-  "N": "Plume d'argent"
+  "N": "Plume en argent"
  },
  "3467": {
   "N": "Clé en fer terne"
@@ -153585,7 +153585,7 @@
   "N": "Lame du Prince du Désert"
  },
  "34686": {
-  "N": "Braséro des flammes dansantes"
+  "N": "Brasero des flammes dansantes"
  },
  "34689": {
   "D": "Vous apprenez à tailler un Diamant brûleciel chaotique.",
@@ -153965,7 +153965,7 @@
   "N": "Brassards de gardien en peau de wyrm"
  },
  "35181": {
-  "N": "Lentille fulgurosoine 9000"
+  "N": "Lentille fulgurosoin 9000"
  },
  "35216": {
   "D": "Vous apprenez à coudre un Corselet du soleil en cuir.",
@@ -156006,7 +156006,7 @@
   "N": "Gros Luth"
  },
  "37878": {
-  "N": "Élixir de sang de Worg"
+  "N": "Elixir de sang de worg"
  },
  "378966": {
   "D": "@Mythique@"
@@ -163939,13 +163939,13 @@
   "N": "Wraps oubliés"
  },
  "41171": {
-  "N": "Pierre de feu supérieur"
+  "N": "Pierre de feu supérieure"
  },
  "41177": {
   "N": "Lame en pierre de l'esprit de givre"
  },
  "41194": {
-  "N": "Pierre de Sort Magistrale"
+  "N": "Pierre de sort magistrale"
  },
  "412": {
   "N": "Vieille espingole"
@@ -164503,7 +164503,7 @@
   "D": "@Mondeforgé@"
  },
  "41509": {
-  "N": "Kit de mise à niveau Trait de givre"
+  "N": "Filet en tisse-givre"
  },
  "415090": {
   "D": "@Worldforged@",
@@ -170013,7 +170013,7 @@
   "N": "Dernières heures"
  },
  "44329": {
-  "N": "Élixir de précision"
+  "N": "Elixir d'expertise"
  },
  "44391": {
   "N": "Tour de cou en acier moulé"
@@ -170379,7 +170379,7 @@
  },
  "44581": {
   "D": "Ce bijou magique ressemble parfaitement à un œil de dragon bleu.",
-  "N": "INUTILISÉ - Clé héroïque de l'iris de concentration"
+  "N": "Clé héroïque de l'iris de focalisation"
  },
  "445816": {
   "D": "@Mythique 11@",
@@ -170411,7 +170411,7 @@
  },
  "44738": {
   "D": "Qui aurait cru qu'il aimait autant les livres ?",
-  "N": "Famille du Kirin Tor"
+  "N": "Familier du Kirin Tor"
  },
  "44791": {
   "N": "Chocolat du Jardin des nobles"
@@ -172309,10 +172309,10 @@
   "N": "Haubert forgé d'ogre"
  },
  "46396": {
-  "N": "Sifflet d'orphelin Varleu"
+  "N": "Sifflet d'orphelin varleu"
  },
  "46397": {
-  "N": "Oracle du Sifflet d'orphelin"
+  "N": "Sifflet d'orphelin oracle"
  },
  "464": {
   "N": "Hache de lancer faite à la main"
@@ -172735,7 +172735,7 @@
  },
  "46780": {
   "D": "Placez une piñata ogre remplie de bonbons.",
-  "N": "Ogre piñata"
+  "N": "Piñata ogre"
  },
  "468": {
   "N": "Tromblon nain"
@@ -175046,7 +175046,7 @@
  },
  "49665": {
   "D": "Vous apprendrez à invoquer cette mascotte.",
-  "N": "Moine Pandaren"
+  "N": "Moine pandaren"
  },
  "49672": {
   "N": "Arme à feu d'ambre de la Horde"
@@ -237751,7 +237751,7 @@
   "N": "[NOM DE L'ARTICLE MANQUANT]"
  },
  "8546": {
-  "N": "Sels à l'odeur puissante"
+  "N": "Puissants sels odorants"
  },
  "85464": {
   "N": "Kit de mise à niveau en cuir moyen"
