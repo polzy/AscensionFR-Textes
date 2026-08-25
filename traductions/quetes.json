@@ -1529,7 +1529,7 @@
  },
  "1007379": {
   "A": "Retournez au tableau d'affichage.",
-  "D": "Héros, nous avons besoin de votre aide !$b$bNos soldats ont désespérément besoin d'un coup de pouce moral ! Et puis, j'ai pensé que nous pourrions peut-être leur remonter le moral avec un repas copieux !$b$bRécupérez 12 Dreaming Glory. Naturellement, vous serez généreusement récompensé pour votre aide, héros.",
+  "D": "Héros, nous avons besoin de votre aide !$b$bNos soldats ont désespérément besoin d'un coup de pouce moral ! Et puis, j'ai pensé que nous pourrions peut-être leur remonter le moral avec un repas copieux !$b$bRécupérez 12 Glaurier. Naturellement, vous serez généreusement récompensé pour votre aide, héros.",
   "O": "Récupérez 12 gloires de rêve",
   "T": "Remède à base de plantes : Rêver de gloire"
  },
@@ -2094,7 +2094,7 @@
  },
  "1280653": {
   "A": "Parlez à Chromie et renaissez en tant que héros de niveau 1. Votre sort actuel sera recomposé ! Toutes les autres spécifications sont verrouillées jusqu'à ce qu'elles atteignent le niveau maximum.",
-  "D": "Vous avez peut-être atteint votre destination $r, mais si vous désirez revivre le voyage qui vous a amené ici, je peux vous ramener là où votre voyage a commencé ! Si vous choisissez le Prestige, vous renaîtrez en tant que héros de niveau 1 et revivrez vos aventures à travers Azeroth.\n\nChoisir Prestige réinitialisera votre personnage au niveau 1 et vous téléportera dans votre zone de départ.\n\nQue se passe-t-il :\n\n- Votre spécialisation actuelle est réinitialisée et recomposera tous les sorts.\n- Toutes les Mains du Destin de votre spécialisation actuelle sont supprimées.\n- Toutes les quêtes Hand of Fate pour votre spécialisation actuelle sont réinitialisées.\n- Toutes les autres spécifications resteront verrouillées jusqu'à ce que vous atteigniez le niveau maximum.\n- Vos cartes de compétence actuelles seront actives sur votre nouvelle spécialisation Prestige.\n- Vous pouvez activer de nouvelles cartes de compétence pour votre spécification Prestiged.\n- Votre équipement équipé vous sera envoyé par courrier.\n- Toutes les quêtes de mise à niveau seront réinitialisées et pourront être complétées à nouveau.\n- Votre journal de quête sera effacé.\n\nVous conserverez toutes les professions, équipements, marques d'ascension, monnaies et objets, à l'exception de la Main du destin non dépensée de votre spécialisation prestigieuse. Si vous avez une formation avancée en équitation, vous recevrez un tome qui vous permettra de réapprendre votre équitation au niveau approprié.\n\nVoyage avant la destination Hero. Souhaitez-vous renaître ?",
+  "D": "Vous avez peut-être atteint votre destination $r, mais si vous désirez revivre le voyage qui vous a amené ici, je peux vous ramener là où votre voyage a commencé ! Si vous choisissez le Prestige, vous renaîtrez en tant que héros de niveau 1 et revivrez vos aventures à travers Azeroth.\n\nChoisir Prestige réinitialisera votre personnage au niveau 1 et vous téléportera dans votre zone de départ.\n\nQue se passe-t-il :\n\n- Votre spécialisation actuelle est réinitialisée et recomposera tous les sorts.\n- Toutes les Mains du Destin de votre spécialisation actuelle sont supprimées.\n- Toutes les quêtes Main du destin pour votre spécialisation actuelle sont réinitialisées.\n- Toutes les autres spécifications resteront verrouillées jusqu'à ce que vous atteigniez le niveau maximum.\n- Vos cartes de compétence actuelles seront actives sur votre nouvelle spécialisation Prestige.\n- Vous pouvez activer de nouvelles cartes de compétence pour votre spécification Prestiged.\n- Votre équipement équipé vous sera envoyé par courrier.\n- Toutes les quêtes de mise à niveau seront réinitialisées et pourront être complétées à nouveau.\n- Votre journal de quête sera effacé.\n\nVous conserverez toutes les professions, équipements, marques d'ascension, monnaies et objets, à l'exception de la Main du destin non dépensée de votre spécialisation prestigieuse. Si vous avez une formation avancée en équitation, vous recevrez un tome qui vous permettra de réapprendre votre équitation au niveau approprié.\n\nVoyage avant la destination Hero. Souhaitez-vous renaître ?",
   "O": "Parlez à Chromie et renaissez en tant que héros de niveau 1. Votre sort actuel sera recomposé ! Toutes les autres spécifications sont verrouillées jusqu'à ce qu'elles atteignent le niveau maximum.",
   "OT": [
    "Confirmez que vous souhaitez être réinitialisé au niveau 1",
@@ -3469,7 +3469,7 @@
   "T": "Membres agités de la famille"
  },
  "1660026": {
-  "A": "Apportez les fragments de clé au Deathstalker Exsangue.",
+  "A": "Apportez les fragments de clé au Traque-mort Exsangue.",
   "D": "Une fois les esprits réglés, il y a une autre affaire… qui dépasse de loin les capacités de mes collègues.$b$bMa sœur Priscilla, maudit son nom, a transformé le manoir en un repaire de sorcellerie. Ses pires expériences ont été enfermées dans le sous-sol dont la clé, nous venons de le découvrir, était brisée en trois morceaux, désormais détenues par l'ancien majordome, la servante et le maître d'écurie. Des coques sans cervelle, tous les trois.$b$bTuez-les et récupérez leurs fragments de clé. Exsangue le reforgera pour que vous puissiez ouvrir le sous-sol et… lui faire un nettoyage en profondeur.",
   "O": "Récupérez les fragments de clé détenus par le majordome, la servante et le maître d'écurie du manoir.",
   "T": "Un secret indescriptible"
@@ -4035,7 +4035,7 @@
  },
  "17002": {
   "A": "Récupérez 10 gemmes de mana épuisées et retournez à la tour d'Azora.",
-  "D": "Salut! Je viens d'être chargé d'aider sur un projet de recherche, et je pense que cela pourrait être ma grande chance de montrer au maître que je suis prêt à assumer plus de responsabilités.\n\nNous étudions l’épuisement magique, et pour cela, nous avons besoin d’échantillons de matière arcanique épuisée. Je pense que vous pouvez les récupérer auprès des Defias Rogue Wizards près de Stone Cairn Lake. Ils sont dangereux, mais j'ai entendu dire qu'ils ont éclipsé leurs sorts ces derniers temps, ce qui les rend parfaits pour ce dont nous avons besoin.\n\nSeriez-vous prêt à rapporter dix de leurs gemmes de mana épuisées ? Je veillerai à ce que vous soyez récompensé. Et si tout se passe bien... peut-être que je pourrai essayer de lancer quelque chose de plus gros que Mage Armor !",
+  "D": "Salut! Je viens d'être chargé d'aider sur un projet de recherche, et je pense que cela pourrait être ma grande chance de montrer au maître que je suis prêt à assumer plus de responsabilités.\n\nNous étudions l’épuisement magique, et pour cela, nous avons besoin d’échantillons de matière arcanique épuisée. Je pense que vous pouvez les récupérer auprès des Defias Rogue Wizards près de Stone Cairn Lake. Ils sont dangereux, mais j'ai entendu dire qu'ils ont éclipsé leurs sorts ces derniers temps, ce qui les rend parfaits pour ce dont nous avons besoin.\n\nSeriez-vous prêt à rapporter dix de leurs gemmes de mana épuisées ? Je veillerai à ce que vous soyez récompensé. Et si tout se passe bien... peut-être que je pourrai essayer de lancer quelque chose de plus gros que Armure du mage !",
   "O": "Récupérez 10 gemmes de mana épuisées et retournez à la tour d'Azora.",
   "T": "Les ordres du Maître"
  },
@@ -6242,9 +6242,9 @@
  },
  "18019": {
   "A": "Retournez au tableau d’appel.",
-  "D": "Les malveillants satyres Jadefire, vestiges d'un passé maudit, répandent leur trahison et leur magie noire à travers Gangrebois. Avec leurs Hellcallers menant de sombres rituels, leurs Traîtres semant la discorde et leurs Tricksters trompant les innocents, leur règne menace de plonger la forêt dans des ténèbres irréversibles. Héros, c'est à vous d'intervenir. Exorcisez la menace Jadefire et apportez un répit aux bois contaminés.",
-  "O": "Exterminez 6 Jadefire Hellcallers, 6 Jadefire Betrayers et 6 Jadefire Tricksters à Gangrebois.",
-  "T": "Dispersion des démons : exorciser le Jadefire"
+  "D": "Les malveillants satyres Jadefeu, vestiges d'un passé maudit, répandent leur trahison et leur magie noire à travers Gangrebois. Avec leurs Hellcallers menant de sombres rituels, leurs Traîtres semant la discorde et leurs Tricksters trompant les innocents, leur règne menace de plonger la forêt dans des ténèbres irréversibles. Héros, c'est à vous d'intervenir. Exorcisez la menace Jadefeu et apportez un répit aux bois contaminés.",
+  "O": "Exterminez 6 Jadefeu Hellcallers, 6 Jadefeu Betrayers et 6 Jadefeu Tricksters à Gangrebois.",
+  "T": "Dispersion des démons : exorciser le Jadefeu"
  },
  "18020": {
   "A": "Retournez au tableau d’appel.",
@@ -6254,7 +6254,7 @@
  },
  "18021": {
   "A": "Retournez au tableau d’appel.",
-  "D": "Héros, terribles nouvelles de Jadefire Run. Un sinistre satyre nommé Zazzuth'ul mène des raids vicieux à travers Gangrebois, ne laissant que des ruines dans son sillage. Si rien n’est fait, ce voyou et ses partisans dépouilleront tout ce qu’ils toucheront. J'ai besoin d'un champion légendaire pour m'aventurer à Jadefire Run et tuer Zazzuth'ul, avant que la corruption du satyre ne se propage davantage à travers le pays.",
+  "D": "Héros, terribles nouvelles de Jadefeu Run. Un sinistre satyre nommé Zazzuth'ul mène des raids vicieux à travers Gangrebois, ne laissant que des ruines dans son sillage. Si rien n’est fait, ce voyou et ses partisans dépouilleront tout ce qu’ils toucheront. J'ai besoin d'un champion légendaire pour m'aventurer à Jadefeu Run et tuer Zazzuth'ul, avant que la corruption du satyre ne se propage davantage à travers le pays.",
   "O": "Tuer Zazzuth'ul",
   "T": "Recherché : Zazzuth'ul"
  },
@@ -6266,9 +6266,9 @@
  },
  "18023": {
   "A": "Retournez au tableau d’appel.",
-  "D": "Alors que les énergies sombres palpitent plus profondément dans Gangrebois, les satyres Jadefire et leurs parents Gangrejurés intensifient leurs rituels maléfiques, capturant les âmes mêmes des habitants de la forêt. Les âmes démoniaques piégées servent de source de leur pouvoir impie. Héros, votre intervention est cruciale. Abattez les Satyres et les Gangrebois, récupérez les âmes prises au piège et restaurez l'essence de Gangrebois avant qu'elle ne soit consommée à jamais.",
+  "D": "Alors que les énergies sombres palpitent plus profondément dans Gangrebois, les satyres Jadefeu et leurs parents Gangrejurés intensifient leurs rituels maléfiques, capturant les âmes mêmes des habitants de la forêt. Les âmes démoniaques piégées servent de source de leur pouvoir impie. Héros, votre intervention est cruciale. Abattez les Satyres et les Gangrebois, récupérez les âmes prises au piège et restaurez l'essence de Gangrebois avant qu'elle ne soit consommée à jamais.",
   "O": "Éliminez 6 Satyres Jadefire, 6 Gangrejures Jadefire et récupérez 6 Âmes démoniaques à Gangrebois.",
-  "T": "Dispersion des démons : le jugement du Jadefire"
+  "T": "Dispersion des démons : le jugement du Jadefeu"
  },
  "18024": {
   "A": "Retournez au tableau d’appel.",
@@ -6928,7 +6928,7 @@
  },
  "1903511": {
   "A": "Parlez au Livre de l'Ascension d'un débutant. Vous pouvez modifier votre statistique principale à tout moment et gratuitement, hors combat.",
-  "D": "Choisissez un attribut principal en fonction de votre principale capacité de dégâts et de votre style de jeu :\r\n\r\n[Force] pour des sorts comme Rend, Crusader Strike ou Heroic Strike.\r\n\r\n[Agilité] pour des sorts comme Sinister Strike, Cat Form ou Arcane Shot.\r\n\r\n[Intelligence] pour des sorts comme Fireball, Frostbolt ou Corruption.\r\n\r\n[Esprit] est la statistique du guérisseur. Choisissez Esprit lorsque vous souhaitez vous concentrer sur la guérison de vos alliés.\r\n\r\nVous pouvez passer la souris sur chaque statistique dans le menu pour voir plus de détails. Il n'y a aucun frais pour changer votre attribut principal, alors assurez-vous d'expérimenter !",
+  "D": "Choisissez un attribut principal en fonction de votre principale capacité de dégâts et de votre style de jeu :\r\n\r\n[Force] pour des sorts comme Rend, Frappe du croisé ou Frappe héroïque.\r\n\r\n[Agilité] pour des sorts comme Attaque pernicieuse, Forme de félin ou Tir des arcanes.\r\n\r\n[Intelligence] pour des sorts comme Boule de feu, Éclair de givre ou Corruption.\r\n\r\n[Esprit] est la statistique du guérisseur. Choisissez Esprit lorsque vous souhaitez vous concentrer sur la guérison de vos alliés.\r\n\r\nVous pouvez passer la souris sur chaque statistique dans le menu pour voir plus de détails. Il n'y a aucun frais pour changer votre attribut principal, alors assurez-vous d'expérimenter !",
   "O": "- Ouvrez l'avancement du personnage (Hotkey N) ou depuis la barre de menu. \r\n- Sélectionnez un attribut principal dans la section supérieure droite.\r\n- Vous pouvez modifier gratuitement les attributs principaux à tout moment !",
   "OT": [
    "(Hotkey N), sélectionnez un attribut principal (en haut à droite)",
@@ -9112,7 +9112,7 @@
  },
  "28062": {
   "A": "Apportez la commission à Gremlock Pilsnor à Kharanos à Dun Morogh.",
-  "D": "Salut, $N ! Vous venez prendre un repas copieux et une chope de bière à l'auberge ? Eh bien, j'ai une mauvaise nouvelle pour vous : nous n'avons plus accès à notre plat du jour, Spiced Wolf Meat.$B$BDis, n'êtes-vous pas un peu cuisinier vous-même ? Si vous voulez me donner un coup de main et préparer un plat du jour, je serai ravi de vous donner votre poids en viande crue ! Cela ressemble à un accord ?",
+  "D": "Salut, $N ! Vous venez prendre un repas copieux et une chope de bière à l'auberge ? Eh bien, j'ai une mauvaise nouvelle pour vous : nous n'avons plus accès à notre plat du jour, Viande de loup épicée.$B$BDis, n'êtes-vous pas un peu cuisinier vous-même ? Si vous voulez me donner un coup de main et préparer un plat du jour, je serai ravi de vous donner votre poids en viande crue ! Cela ressemble à un accord ?",
   "O": "Gremlock Pilsnor veut que vous utilisiez vos compétences culinaires pour fabriquer 10 viandes de loup épicées et que vous apportiez la commande à Gremlock Pilsnor à Kharanos à Dun Morogh.",
   "T": "Commission pour Gremlock Pilsnor"
  },
@@ -9183,7 +9183,7 @@
   "T": "Commission pour le Kirge Sternhorn"
  },
  "28086": {
-  "A": "Apportez la commission au Deathstalker Lesh à la tour Southpoint, dans les contreforts d'Hillsbrad.",
+  "A": "Apportez la commission au Traque-mort Lesh à la tour Southpoint, dans les contreforts d'Hillsbrad.",
   "D": "Bienvenue dans le pire poste de la Horde, $C : la tour Southpoint. Ce n'est pas grand chose à regarder, mais c'est le mien.$B$BDans mon ancienne vie, je passais beaucoup de temps près de la mer et la cuisine me manque. Les rations distribuées par Fossoyeuse ont peu de charme, et il n'y a pas grand-chose que je ne donnerais pas pour une assiette de palourdes gobelines. Si vous savez les cuisiner, ça vaut le coup de m'en apporter !",
   "O": "Le traqueur mortel Lesh veut que vous utilisiez vos compétences culinaires pour fabriquer 10 palourdes diaboliques gobelines et que vous en apportiez la commande au traqueur mortel Lesh à la tour de la pointe sud, dans les contreforts d'Hillsbrad.",
   "T": "Commission pour le traqueur mortel Lesh"
@@ -9263,7 +9263,7 @@
  "28476": {
   "A": "Apportez la commission à l'observateur Dodds au camp de surveillance nocturne, dans le centre de Duskwood.",
   "D": "Je connais mes poisons, $C. Je les ai étudiés, je les ai brassés, je les ai guéris. Et dans cette forêt ? Vous feriez mieux d'être prêt à gérer une ou deux morsures d'araignées.$B$BLa Ronde de Nuit pourrait utiliser des ressources pratiques en matière de morsures d'araignées. Apportez 3 doses d'Anti-Venom à Watcher Dodds. Ce n'est pas compliqué, mais cela permettra à sa patrouille de rester debout au lieu d'être morte dans un fossé.",
-  "O": "Brink Spanercrank veut que vous utilisiez vos compétences de secourisme pour fabriquer 3 Anti-Venom et que vous transmettiez l'ordre au Watcher Dodds au Night Watch Camp dans le centre de Duskwood.",
+  "O": "Brink Spanercrank veut que vous utilisiez vos compétences de secourisme pour fabriquer 3 Anti-venin et que vous transmettiez l'ordre au Watcher Dodds au Night Watch Camp dans le centre de Duskwood.",
   "T": "Commission pour l'observateur Dodds"
  },
  "28477": {
@@ -9299,7 +9299,7 @@
  "28488": {
   "A": "Apportez la commission à Maggran Earthbinder à Sun Rock Retreat dans les montagnes Stonetalon.",
   "D": "Je connais mes poisons, $C. Ils constituent l'une des défenses du territoire, et dans ces montagnes ? Vous feriez mieux d'être prêt à affronter une morsure d'araignée ou une piqûre de wyverne... voire les deux !$B$BLes Grunts stationnés ici pourraient utiliser des ressources pratiques en matière de poisons. Apportez 3 doses d'Anti-Venom à Maggran Earthbinder. Nous utiliserons la source du poison pour le guérir.",
-  "O": "Tammra Windfield veut que vous utilisiez vos compétences de secourisme pour fabriquer 3 Anti-Venom et que vous apportiez l'ordre à Maggran Earthbinder à la Retraite de Sun Rock dans les Montagnes Stonetalon.",
+  "O": "Tammra Windfield veut que vous utilisiez vos compétences de secourisme pour fabriquer 3 Anti-venin et que vous apportiez l'ordre à Maggran Earthbinder à la Retraite de Sun Rock dans les Montagnes Stonetalon.",
   "T": "Commission pour Maggran Earthbinder"
  },
  "28489": {
@@ -9316,7 +9316,7 @@
  },
  "28491": {
   "A": "Apportez la commission à Elu au Freewind Post à Thousand Needles.",
-  "D": "Les wyvernes parcourent les cieux des Aiguilles. Même si je les adore, je dois admettre que leurs piqûres sont rapides, cruelles et mortelles si vous n'agissez pas rapidement. Nous avons récemment perdu deux pack kodos et presque perdu un éclaireur.$B$BVous êtes doué en premiers secours, je peux le dire. J'ai besoin de 3 doses de Strong Anti-Venom. La prochaine créature piquée pourrait ne pas revenir avant que le venin n’ait fait son travail, et nous devons être préparés.",
+  "D": "Les wyvernes parcourent les cieux des Aiguilles. Même si je les adore, je dois admettre que leurs piqûres sont rapides, cruelles et mortelles si vous n'agissez pas rapidement. Nous avons récemment perdu deux pack kodos et presque perdu un éclaireur.$B$BVous êtes doué en premiers secours, je peux le dire. J'ai besoin de 3 doses de Sérum anti-venin supérieur. La prochaine créature piquée pourrait ne pas revenir avant que le venin n’ait fait son travail, et nous devons être préparés.",
   "O": "Elu veut que vous utilisiez vos compétences de secourisme pour fabriquer 3 anti-venins puissants et que vous apportiez la commande à Elu au poste de Freewind à Thousand Needles.",
   "T": "Commission pour Elu"
  },
@@ -9945,7 +9945,7 @@
  },
  "354005": {
   "A": "Retournez au tableau d’appel.",
-  "D": "Mauvaises nouvelles de la vallée d’Ombrelune. Un ignoble Doomguard nommé Tor'gakar a été placé aux commandes de Legion Hold, sans doute pour superviser la création d'une nouvelle arme ou d'un nouveau portail diabolique. Tor'gakar pousse cruellement les ouvriers moargs à travailler sans repos : tous ceux qui hésitent sont tués. Les armes qu'ils créent pourraient donner à la Légion l'avantage dans Ombrelune, et peut-être dans tout l'Outreterre, si elles étaient achevées. Cela ne peut pas continuer ! Infiltrez le Fort de la Légion et tuez le surveillant Tor'gakar avant que d'autres vies innocentes ne soient perdues à cause de ses méthodes impitoyables de maître d'oeuvre. Mettez fin au règne brutal du Doomguard !",
+  "D": "Mauvaises nouvelles de la vallée d’Ombrelune. Un ignoble Garde funeste nommé Tor'gakar a été placé aux commandes de Legion Hold, sans doute pour superviser la création d'une nouvelle arme ou d'un nouveau portail diabolique. Tor'gakar pousse cruellement les ouvriers moargs à travailler sans repos : tous ceux qui hésitent sont tués. Les armes qu'ils créent pourraient donner à la Légion l'avantage dans Ombrelune, et peut-être dans tout l'Outreterre, si elles étaient achevées. Cela ne peut pas continuer ! Infiltrez le Fort de la Légion et tuez le surveillant Tor'gakar avant que d'autres vies innocentes ne soient perdues à cause de ses méthodes impitoyables de maître d'oeuvre. Mettez fin au règne brutal du Garde funeste !",
   "O": "Tuer le surveillant Tor'gakar",
   "T": "Recherché : surveillant Tor'gakar"
  },
@@ -9981,7 +9981,7 @@
  },
  "354023": {
   "A": "Retournez au tableau d'affichage.",
-  "D": "Mauvaises nouvelles d'Auchindoun. Le sorcier Reldreya du Conseil des Ombres a convoqué un puissant Doomguard nommé Voralag pour superviser les opérations gangrenées dans les ruines hantées. Voralag surveille cruellement la corruption des esprits au sein d'Auchindoun, les transformant en ombres brisées pour exécuter les ordres de la Légion. Cela ne peut pas continuer ! Infiltrez Auchindoun, recherchez le surveillant Voralag et mettez fin à sa croisade profane avant que d'autres âmes ne tombent dans les ténèbres.",
+  "D": "Mauvaises nouvelles d'Auchindoun. Le sorcier Reldreya du Conseil des Ombres a convoqué un puissant Garde funeste nommé Voralag pour superviser les opérations gangrenées dans les ruines hantées. Voralag surveille cruellement la corruption des esprits au sein d'Auchindoun, les transformant en ombres brisées pour exécuter les ordres de la Légion. Cela ne peut pas continuer ! Infiltrez Auchindoun, recherchez le surveillant Voralag et mettez fin à sa croisade profane avant que d'autres âmes ne tombent dans les ténèbres.",
   "O": "Tuez le surveillant Voralag.",
   "T": "Recherché : Surveillant Voralag"
  },
@@ -10041,13 +10041,13 @@
  },
  "354087": {
   "A": "Retournez au tableau d'affichage.",
-  "D": "Champion, de sombres nouvelles du Front de la Légion. Un ignoble injure d’effroi supervise les porteurs de guerre infernaux, les diablotins éveilleurs de flammes et les esprits gangrenés lors des préparations rituelles. Quel que soit le mal qu’ils invoquent, il faut l’arrêter ! Aventurez-vous au Front de la Légion et perturbez leurs rituels. Tuez l'invocateur, bannissez les infernaux, faites taire les chahuts des diablotins et éliminez les sprites. Brisez la puissance magique de la Légion avant qu'elle ne se déchaîne sur nous. Vous seul possédez le pouvoir de porter un coup aussi critique à nos ennemis. Hellfire dépend de toi, héros !",
+  "D": "Champion, de sombres nouvelles du Front de la Légion. Un ignoble injure d’effroi supervise les porteurs de guerre infernaux, les diablotins éveilleurs de flammes et les esprits gangrenés lors des préparations rituelles. Quel que soit le mal qu’ils invoquent, il faut l’arrêter ! Aventurez-vous au Front de la Légion et perturbez leurs rituels. Tuez l'invocateur, bannissez les infernaux, faites taire les chahuts des diablotins et éliminez les sprites. Brisez la puissance magique de la Légion avant qu'elle ne se déchaîne sur nous. Vous seul possédez le pouvoir de porter un coup aussi critique à nos ennemis. Flammes infernales dépend de toi, héros !",
   "O": "Perturbez les rituels de la Légion ardente sur le front de la Légion, dans la péninsule des Flammes infernales.",
   "T": "Angoisse de la Légion"
  },
  "354088": {
   "A": "Retournez au tableau d'affichage.",
-  "D": "Champion, nos éclaireurs rapportent que la Légion ardente transporte des documents importants via des gangreparchemins à travers la péninsule des Flammes infernales. Il ne fait aucun doute que ceux-ci contiennent des plans pour leur invasion de l’Outreterre. Il faut les intercepter ! Aventurez-vous dans Hellfire et obtenez secrètement tous les parchemins gangrenés que vous pouvez trouver. Apportez-les-moi afin que nous puissions avoir un aperçu des projets et des plans de la Légion. La connaissance est notre meilleure arme contre leurs forces envahissantes. L'avenir de l'Outreterre dépend de héros comme vous, champion. Récupérez ces parchemins et aidez-nous à inverser la tendance !",
+  "D": "Champion, nos éclaireurs rapportent que la Légion ardente transporte des documents importants via des gangreparchemins à travers la péninsule des Flammes infernales. Il ne fait aucun doute que ceux-ci contiennent des plans pour leur invasion de l’Outreterre. Il faut les intercepter ! Aventurez-vous dans Flammes infernales et obtenez secrètement tous les parchemins gangrenés que vous pouvez trouver. Apportez-les-moi afin que nous puissions avoir un aperçu des projets et des plans de la Légion. La connaissance est notre meilleure arme contre leurs forces envahissantes. L'avenir de l'Outreterre dépend de héros comme vous, champion. Récupérez ces parchemins et aidez-nous à inverser la tendance !",
   "O": "Obtenez des gangreparchemins auprès des forces de la Légion ardente dans la péninsule des Flammes infernales.",
   "T": "Les schémas de la Légion"
  },
@@ -10667,7 +10667,7 @@
  },
  "500004": {
   "A": "Retourner voir Maur Tharok Windhoof au Cercle des Pères de Pierre",
-  "D": "Mes disciples étaient sur la route depuis Thunder Bluff lorsque les harpies Windfury sont descendues des falaises au nord.\n\nAttirés par tout ce qui était sculpté ou peint, ils ont déchiré les paquets et saisi les totems sacrés destinés à notre prochain rite. Les disciples s'en sont sortis vivants, mais les harpies arborent désormais ces totems comme ornements dans leurs griffes et leurs plumes. Sans eux, le rite ne peut pas commencer.\n\nTrouvez les Windfury au nord, $N, et reprenez ce qu'ils ont volé. Rendez-moi les totems pour que les vents puissent à nouveau porter nos voix.",
+  "D": "Mes disciples étaient sur la route depuis Thunder Bluff lorsque les harpies Furie des vents sont descendues des falaises au nord.\n\nAttirés par tout ce qui était sculpté ou peint, ils ont déchiré les paquets et saisi les totems sacrés destinés à notre prochain rite. Les disciples s'en sont sortis vivants, mais les harpies arborent désormais ces totems comme ornements dans leurs griffes et leurs plumes. Sans eux, le rite ne peut pas commencer.\n\nTrouvez les Furie des vents au nord, $N, et reprenez ce qu'ils ont volé. Rendez-moi les totems pour que les vents puissent à nouveau porter nos voix.",
   "O": "Récupérez 8 totems rituels et apportez-les à Maur Tharok Windhoof au Cercle du Père de Pierre.",
   "T": "Le Rite du Cercle"
  },
@@ -12652,7 +12652,7 @@
  },
  "80652": {
   "A": "Parlez à Chromie et renaissez en tant que héros de niveau 1. Votre sort actuel sera recomposé ! Toutes les autres spécifications sont verrouillées jusqu'à ce qu'elles atteignent le niveau maximum.",
-  "D": "Vous avez peut-être atteint votre destination $r, mais si vous désirez revivre le voyage qui vous a amené ici, je peux vous ramener là où votre voyage a commencé ! Si vous choisissez le Prestige, vous renaîtrez en tant que héros de niveau 1 et revivrez vos aventures à travers Azeroth.\n\nChoisir Prestige réinitialisera votre personnage au niveau 1 et vous téléportera dans votre zone de départ.\n\nQue se passe-t-il :\n\n- Votre spécialisation actuelle est réinitialisée et recomposera tous les sorts.\n- Toutes les Mains du Destin de votre spécialisation actuelle sont supprimées.\n- Toutes les quêtes Hand of Fate pour votre spécialisation actuelle sont réinitialisées.\n- Toutes les autres spécifications resteront verrouillées jusqu'à ce que vous atteigniez le niveau maximum.\n- Vos cartes de compétence actuelles seront actives sur votre nouvelle spécialisation Prestige.\n- Vous pouvez activer de nouvelles cartes de compétence pour votre spécification Prestiged.\n- Votre équipement équipé vous sera envoyé par courrier.\n- Toutes les quêtes de mise à niveau seront réinitialisées et pourront être complétées à nouveau.\n- Votre journal de quête sera effacé.\n\nVous conserverez toutes les professions, équipements, marques d'ascension, monnaies et objets, à l'exception de la Main du destin non dépensée de votre spécialisation prestigieuse. Si vous avez une formation avancée en équitation, vous recevrez un tome qui vous permettra de réapprendre votre équitation au niveau approprié.\n\nVoyage avant la destination Hero. Souhaitez-vous renaître ?",
+  "D": "Vous avez peut-être atteint votre destination $r, mais si vous désirez revivre le voyage qui vous a amené ici, je peux vous ramener là où votre voyage a commencé ! Si vous choisissez le Prestige, vous renaîtrez en tant que héros de niveau 1 et revivrez vos aventures à travers Azeroth.\n\nChoisir Prestige réinitialisera votre personnage au niveau 1 et vous téléportera dans votre zone de départ.\n\nQue se passe-t-il :\n\n- Votre spécialisation actuelle est réinitialisée et recomposera tous les sorts.\n- Toutes les Mains du Destin de votre spécialisation actuelle sont supprimées.\n- Toutes les quêtes Main du destin pour votre spécialisation actuelle sont réinitialisées.\n- Toutes les autres spécifications resteront verrouillées jusqu'à ce que vous atteigniez le niveau maximum.\n- Vos cartes de compétence actuelles seront actives sur votre nouvelle spécialisation Prestige.\n- Vous pouvez activer de nouvelles cartes de compétence pour votre spécification Prestiged.\n- Votre équipement équipé vous sera envoyé par courrier.\n- Toutes les quêtes de mise à niveau seront réinitialisées et pourront être complétées à nouveau.\n- Votre journal de quête sera effacé.\n\nVous conserverez toutes les professions, équipements, marques d'ascension, monnaies et objets, à l'exception de la Main du destin non dépensée de votre spécialisation prestigieuse. Si vous avez une formation avancée en équitation, vous recevrez un tome qui vous permettra de réapprendre votre équitation au niveau approprié.\n\nVoyage avant la destination Hero. Souhaitez-vous renaître ?",
   "O": "Parlez à Chromie et renaissez en tant que héros de niveau 1. Votre sort actuel sera recomposé ! Toutes les autres spécifications sont verrouillées jusqu'à ce qu'elles atteignent le niveau maximum.",
   "OT": [
    "Confirmez que vous souhaitez être réinitialisé au niveau 1",
@@ -12854,7 +12854,7 @@
  },
  "80832": {
   "A": "Retournez au tableau d’appel.",
-  "D": "Une commande de réquisition a été passée pour 1 Precision Scopes. Seul un artisan expert utilisant des matériaux obtenus à haut risque peut créer ces objets de valeur.",
+  "D": "Une commande de réquisition a été passée pour 1 Lunettes de précision. Seul un artisan expert utilisant des matériaux obtenus à haut risque peut créer ces objets de valeur.",
   "O": "Récupérez 1 lunette de précision ciblée.",
   "T": "Marchand d’armes : une lunette de précision ciblée"
  },
@@ -14618,7 +14618,7 @@
  },
  "967350": {
   "A": "Retour à la clé des Homicides",
-  "O": "La cache cachée devant vous est dotée de mécanismes complexes et de protections magiques qui explosent en cas de falsification. Vous pouvez le déverrouiller avec une Dread Magic Key.",
+  "O": "La cache cachée devant vous est dotée de mécanismes complexes et de protections magiques qui explosent en cas de falsification. Vous pouvez le déverrouiller avec une Clé magique de l'effroi.",
   "T": "Débloquez la cache cachée de l'effroi"
  },
  "967351": {

@@ -113,19 +113,19 @@
   "D": "Sac à dos du lanceur de peste (violet)"
  },
  "1001619": {
-  "D": "Vous apprend à invoquer cette monture. Cette monture est capable de voler.\r\n\r\nCette monture a été forgée au plus profond de Hellfire Citadel par un forgeron fou ; l'Annihilateur Gangracier combine les connaissances en métallurgie de la Horde de Fer avec les énergies gangrenées chaotiques de la Légion ardente dans une union impie d'acier et de flammes.",
+  "D": "Vous apprend à invoquer cette monture. Cette monture est capable de voler.\r\n\r\nCette monture a été forgée au plus profond de Flammes infernales Citadel par un forgeron fou ; l'Annihilateur Gangracier combine les connaissances en métallurgie de la Horde de Fer avec les énergies gangrenées chaotiques de la Légion ardente dans une union impie d'acier et de flammes.",
   "N": "Module de contrôle de l'annihilateur gangracier"
  },
  "1001620": {
-  "D": "Vous apprend à invoquer cette monture. Cette monture est capable de voler.\r\n\r\nCette monture a été forgée au plus profond de Hellfire Citadel par un forgeron fou ; l'Annihilateur Frostbitten combine les connaissances en métallurgie de la Horde de Fer avec les énergies gangrenées chaotiques de la Légion ardente dans une union impie d'acier, de givre et de flammes.",
+  "D": "Vous apprend à invoquer cette monture. Cette monture est capable de voler.\r\n\r\nCette monture a été forgée au plus profond de Flammes infernales Citadel par un forgeron fou ; l'Annihilateur Frostbitten combine les connaissances en métallurgie de la Horde de Fer avec les énergies gangrenées chaotiques de la Légion ardente dans une union impie d'acier, de givre et de flammes.",
   "N": "Module de contrôle de Frostbitten Annihilator"
  },
  "1001621": {
-  "D": "Vous apprend à invoquer cette monture. Cette monture est capable de voler.\r\n\r\nCette monture a été forgée au plus profond de Hellfire Citadel par un forgeron fou ; l'Annihilateur profané combine les connaissances en métallurgie de la Horde de Fer avec les énergies gangrenées chaotiques de la Légion ardente dans une union impie d'acier et de flammes.",
+  "D": "Vous apprend à invoquer cette monture. Cette monture est capable de voler.\r\n\r\nCette monture a été forgée au plus profond de Flammes infernales Citadel par un forgeron fou ; l'Annihilateur profané combine les connaissances en métallurgie de la Horde de Fer avec les énergies gangrenées chaotiques de la Légion ardente dans une union impie d'acier et de flammes.",
   "N": "Module de contrôle de l'Annihilateur profané"
  },
  "1001622": {
-  "D": "Vous apprend à invoquer cette monture. Cette monture est capable de voler.\r\n\r\nCette monture a été forgée au plus profond de Hellfire Citadel par un forgeron fou ; l'Annihilateur Corrompu combine les connaissances en métallurgie de la Horde de Fer avec les énergies gangrenées chaotiques de la Légion ardente dans une union impie d'acier et de flammes.",
+  "D": "Vous apprend à invoquer cette monture. Cette monture est capable de voler.\r\n\r\nCette monture a été forgée au plus profond de Flammes infernales Citadel par un forgeron fou ; l'Annihilateur Corrompu combine les connaissances en métallurgie de la Horde de Fer avec les énergies gangrenées chaotiques de la Légion ardente dans une union impie d'acier et de flammes.",
   "N": "Module de contrôle de l'Annihilator corrompu"
  },
  "1001623": {
@@ -4559,7 +4559,7 @@
  },
  "1013736": {
   "D": "@re:1316544:0@ @|cff0070DEChaman|r@",
-  "N": "Parchemin mystique : Fire Nova amélioré"
+  "N": "Parchemin mystique : Nova de feu amélioré"
  },
  "1013737": {
   "D": "@re:1316758:0@ @|cff69CCF0Mage|r@",
@@ -5412,7 +5412,7 @@
   "N": "Parchemin mystique : Griffe de pierre"
  },
  "101400": {
-  "D": "Fel Power est utilisé pour améliorer votre héros.\n\nVous gagnez du pouvoir gangrené en gagnant des niveaux, en complétant des contrats de démon et en complétant des défis gangrenés.\nFel Power débloque automatiquement des avantages puissants, des équitations, des insignes de légion surpuissants et bien plus encore à mesure que vous les accumulez.\n\nIl peut également être dépensé à Silas Darkmoon pour des runes mystiques, des orbes, des cartes de compétence et des mains du destin."
+  "D": "Puissance gangrenee est utilisé pour améliorer votre héros.\n\nVous gagnez du pouvoir gangrené en gagnant des niveaux, en complétant des contrats de démon et en complétant des défis gangrenés.\nPuissance gangrenee débloque automatiquement des avantages puissants, des équitations, des insignes de légion surpuissants et bien plus encore à mesure que vous les accumulez.\n\nIl peut également être dépensé à Silas Darkmoon pour des runes mystiques, des orbes, des cartes de compétence et des mains du destin."
  },
  "101401": {
   "D": "Vous apprendrez à invoquer cette mascotte."
@@ -6727,7 +6727,7 @@
   "N": "Pierre de retraite : Zabra'jin"
  },
  "102215": {
-  "D": "Peut être utilisé pour transformer votre capacité Life Tap en transmogrificateur.",
+  "D": "Peut être utilisé pour transformer votre capacité Connexion en transmogrificateur.",
   "N": "Robinet de vie céleste"
  },
  "102233": {
@@ -10587,7 +10587,7 @@
   "N": "Plans : Bouclier Wuju Tiki"
  },
  "1061933": {
-  "D": "Vous apprend à fabriquer une Wildclaw.",
+  "D": "Vous apprend à fabriquer une Griffe sauvage.",
   "N": "Plans : Griffe Sauvage"
  },
  "1061935": {
@@ -11820,10 +11820,10 @@
   "N": "Hache Gangreflare Felblight"
  },
  "107686": {
-  "N": "Thunderfury, Lame Sacrée du Seigneur des Vents (Bleu)"
+  "N": "Lame-tonnerre, Lame Sacrée du Seigneur des Vents (Bleu)"
  },
  "107688": {
-  "N": "Thunderfury, Lame sacrée du Seigneur des Vents (Ambre)"
+  "N": "Lame-tonnerre, Lame sacrée du Seigneur des Vents (Ambre)"
  },
  "107716": {
   "N": "Lame céleste des cieux"
@@ -12093,8 +12093,8 @@
   "D": "@Chef-d'œuvre@"
  },
  "10883": {
-  "D": "Vous apprend à fabriquer de l'Élémentium Dragonfire.",
-  "N": "Formule : Élémentium Dragonfire"
+  "D": "Vous apprend à fabriquer de l'Élémentium Feu draconique.",
+  "N": "Formule : Élémentium Feu draconique"
  },
  "10884": {
   "N": "Lunettes Esprit de la Lune"
@@ -19071,23 +19071,23 @@
   "N": "Pierre de retraite : Autel de Sha'tar"
  },
  "1175653": {
-  "D": "Peut être utilisé pour transformer votre capacité Shadow Form en Transmogrifier.",
+  "D": "Peut être utilisé pour transformer votre capacité Forme d'ombre en Transmogrifier.",
   "N": "Forme d'ombre lépreuse"
  },
  "1175654": {
-  "D": "Peut être utilisé pour transformer votre capacité Shadow Form en Transmogrifier.",
+  "D": "Peut être utilisé pour transformer votre capacité Forme d'ombre en Transmogrifier.",
   "N": "Forme d'ombre juste"
  },
  "1175655": {
-  "D": "Peut être utilisé pour transformer votre capacité Shadow Form en Transmogrifier.",
+  "D": "Peut être utilisé pour transformer votre capacité Forme d'ombre en Transmogrifier.",
   "N": "Forme d'ombre de froid mortel"
  },
  "1175656": {
-  "D": "Peut être utilisé pour transformer votre capacité Shadow Form en Transmogrifier.",
+  "D": "Peut être utilisé pour transformer votre capacité Forme d'ombre en Transmogrifier.",
   "N": "Forme d'ombre transmise par les brumes"
  },
  "1175657": {
-  "D": "Peut être utilisé pour transformer votre capacité Shadow Form en Transmogrifier.",
+  "D": "Peut être utilisé pour transformer votre capacité Forme d'ombre en Transmogrifier.",
   "N": "Forme d'ombre Adumbral"
  },
  "1175658": {
@@ -19344,7 +19344,7 @@
  },
  "1175725": {
   "D": "@re:916086:0@",
-  "N": "Parchemin mystique : Fire Nova amélioré"
+  "N": "Parchemin mystique : Nova de feu amélioré"
  },
  "1175726": {
   "D": "@re:916173:0@",
@@ -19976,7 +19976,7 @@
  },
  "1175890": {
   "D": "@re:951521:0@",
-  "N": "Parchemin mystique : Stormstrike amélioré"
+  "N": "Parchemin mystique : Frappe-tempête amélioré"
  },
  "1175891": {
   "D": "@re:951554:0@",
@@ -30446,7 +30446,7 @@
   "N": "Queue de Naga salée"
  },
  "1303723": {
-  "D": "Viande uniquement séchée sur un Shadowflame Cookfire.",
+  "D": "Viande uniquement séchée sur un Ombreflamme Cookfire.",
   "N": "Viande animée carbonisée par l'ombre"
  },
  "1303724": {
@@ -32720,7 +32720,7 @@
  },
  "1319019": {
   "D": "@Raid Mythique@",
-  "N": "Thunderfury, lame bénie du chercheur de vent"
+  "N": "Lame-tonnerre, lame bénie du chercheur de vent"
  },
  "1319136": {
   "D": "@Noyau de fusion mythique@",
@@ -34371,7 +34371,7 @@
  },
  "132659": {
   "D": "@re:983280:0@",
-  "N": "Parchemin forgé du monde : Poison Nova"
+  "N": "Parchemin forgé du monde : Nova de poison"
  },
  "13266": {
   "N": "Casque Genèse"
@@ -35520,7 +35520,7 @@
  },
  "133170": {
   "D": "Vous obtenez des cartes de compétence de Silas Darkmoon !\r\n\r\nVous pouvez activer des cartes de compétences dans la Collection carte de compétence entre les niveaux 1 et 9.",
-  "N": "Doré carte de compétence - Starsurge"
+  "N": "Doré carte de compétence - Vague d'étoile"
  },
  "133207": {
   "N": "Poing des sens douloureux"
@@ -35997,7 +35997,7 @@
  },
  "134403": {
   "D": "Vous obtenez des cartes de compétence de Silas Darkmoon !\r\n\r\nVous pouvez activer des cartes de compétences dans la Collection carte de compétence entre les niveaux 1 et 9.",
-  "N": "Doré carte de compétence - Mind Sear"
+  "N": "Doré carte de compétence - Incandescence mentale"
  },
  "134496": {
   "D": "Vous obtenez des cartes de compétence de Silas Darkmoon !\r\n\r\nVous pouvez activer des cartes de compétences dans la Collection carte de compétence entre les niveaux 1 et 9."
@@ -37375,7 +37375,7 @@
  },
  "1378334": {
   "D": "@Mondeforgé@",
-  "N": "Médaillon de Shredder"
+  "N": "Médaillon de Broyeur"
  },
  "1378336": {
   "D": "@Mondeforgé@",
@@ -50062,7 +50062,7 @@
  },
  "1388285": {
   "D": "@Mondeforgé@",
-  "N": "Médaillon de Shredder"
+  "N": "Médaillon de Broyeur"
  },
  "1388286": {
   "D": "@Mondeforgé@",
@@ -56337,7 +56337,7 @@
  },
  "1401535": {
   "D": "Vous obtenez des cartes de compétence de Silas Darkmoon !\r\n\r\nVous pouvez activer des cartes de compétence dans la collection de cartes de compétence entre les niveaux 1 et 9.",
-  "N": "Carte de compétence - Fire Nova"
+  "N": "Carte de compétence - Nova de feu"
  },
  "14016": {
   "N": "Ceinture cadavérique"
@@ -56380,7 +56380,7 @@
  },
  "1401949": {
   "D": "Vous obtenez des cartes de compétence de Silas Darkmoon !\r\n\r\nVous pouvez activer des cartes de compétence dans la collection de cartes de compétence entre les niveaux 1 et 9.",
-  "N": "Carte de compétence - Hellfire"
+  "N": "Carte de compétence - Flammes infernales"
  },
  "140195": {
   "N": "Cape élégante du gladiateur pécheur"
@@ -56395,7 +56395,7 @@
  },
  "1402061": {
   "D": "Vous obtenez des cartes de compétence de Silas Darkmoon !\r\n\r\nVous pouvez activer des cartes de compétence dans la collection de cartes de compétence entre les niveaux 1 et 9.",
-  "N": "Carte de compétence - Flash Heal"
+  "N": "Carte de compétence - Soins rapides"
  },
  "1402120": {
   "D": "Vous obtenez des cartes de compétence de Silas Darkmoon !\r\n\r\nVous pouvez activer des cartes de compétence dans la collection de cartes de compétence entre les niveaux 1 et 9.",
@@ -56435,7 +56435,7 @@
  },
  "1402643": {
   "D": "Vous obtenez des cartes de compétence de Silas Darkmoon !\r\n\r\nVous pouvez activer des cartes de compétence dans la collection de cartes de compétence entre les niveaux 1 et 9.",
-  "N": "Carte de compétence - Multi-Shot"
+  "N": "Carte de compétence - Flèches multiples"
  },
  "14027": {
   "N": "Garde-jambes des os de la mort"
@@ -56682,7 +56682,7 @@
  },
  "1408129": {
   "D": "Vous obtenez des cartes de compétence de Silas Darkmoon !\r\n\r\nVous pouvez activer des cartes de compétence dans la collection de cartes de compétence entre les niveaux 1 et 9.",
-  "N": "Carte de compétence - Mana Burn"
+  "N": "Carte de compétence - Brûlure de mana"
  },
  "1408184": {
   "D": "Vous obtenez des cartes de compétence de Silas Darkmoon !\r\n\r\nVous pouvez activer des cartes de compétences dans la Collection carte de compétence entre les niveaux 1 et 9.",
@@ -57070,7 +57070,7 @@
  },
  "1415407": {
   "D": "Vous obtenez des cartes de compétence de Silas Darkmoon !\r\n\r\nVous pouvez activer des cartes de compétence dans la collection de cartes de compétence entre les niveaux 1 et 9.",
-  "N": "Carte de compétence - Mind Flay"
+  "N": "Carte de compétence - Fouet mental"
  },
  "141554": {
   "N": "Rempart lié au Chi"
@@ -57137,7 +57137,7 @@
  },
  "1416857": {
   "D": "Vous obtenez des cartes de compétence de Silas Darkmoon !\r\n\r\nVous pouvez activer des cartes de compétence dans la collection de cartes de compétence entre les niveaux 1 et 9.",
-  "N": "Carte de compétence - Faerie Fire (Feral)"
+  "N": "Carte de compétence - Lucioles (Feral)"
  },
  "141691": {
   "N": "Bottes du feu déchaîné"
@@ -57165,7 +57165,7 @@
  },
  "1417364": {
   "D": "Vous obtenez des cartes de compétence de Silas Darkmoon !\r\n\r\nVous pouvez activer des cartes de compétence dans la collection de cartes de compétence entre les niveaux 1 et 9.",
-  "N": "Carte de compétence - Stormstrike"
+  "N": "Carte de compétence - Frappe-tempête"
  },
  "141745": {
   "N": "Bottes de Noël bleues"
@@ -57196,7 +57196,7 @@
  },
  "1418562": {
   "D": "Vous obtenez des cartes de compétence de Silas Darkmoon !\r\n\r\nVous pouvez activer des cartes de compétence dans la collection de cartes de compétence entre les niveaux 1 et 9.",
-  "N": "Carte de compétence - Swiftmend"
+  "N": "Carte de compétence - Prompte guérison"
  },
  "1418960": {
   "D": "Vous obtenez des cartes de compétence de Silas Darkmoon !\r\n\r\nVous pouvez activer des cartes de compétences dans la Collection carte de compétence entre les niveaux 1 et 9.",
@@ -57267,7 +57267,7 @@
  },
  "1423922": {
   "D": "Vous obtenez des cartes de compétence de Silas Darkmoon !\r\n\r\nVous pouvez activer des cartes de compétence dans la collection de cartes de compétence entre les niveaux 1 et 9.",
-  "N": "Carte de compétence - Shield Slam"
+  "N": "Carte de compétence - Heurt de bouclier"
  },
  "1424275": {
   "D": "Vous obtenez des cartes de compétence de Silas Darkmoon !\r\n\r\nVous pouvez activer des cartes de compétence dans la collection de cartes de compétence entre les niveaux 1 et 9.",
@@ -57680,7 +57680,7 @@
  },
  "1450796": {
   "D": "Vous obtenez des cartes de compétence de Silas Darkmoon !\r\n\r\nVous pouvez activer des cartes de compétence dans la collection de cartes de compétence entre les niveaux 1 et 9.",
-  "N": "Carte de compétence - Chaos Bolt"
+  "N": "Carte de compétence - Trait du chaos"
  },
  "14515": {
   "N": "Kit de mise à niveau d'élémentium de chimiste"
@@ -63108,7 +63108,7 @@
   "N": "Épée de la pourriture"
  },
  "16519": {
-  "N": "Poignées liées de Blood Guard"
+  "N": "Poignées liées de Garde de sang"
  },
  "1651937": {
   "D": "@Mythique@",
@@ -69550,7 +69550,7 @@
   "D": "Invoquez votre Grand Aigle et laissez son regard vigilant révéler votre chemin. Orné de plumes qui scintillent comme l'aube, ce fidèle compagnon observe silencieusement vos aventures, incarnant l'esprit de loyauté et de force."
  },
  "187092": {
-  "D": "Invoquez votre Rotfeather Scavenger et laissez son regard perçant révéler les ombres de votre voyage. Habillé de plumes en lambeaux qui font écho à la nuit, ce compagnon omniprésent veille sur votre épaule, un rappel effrayant de l'équilibre entre la vie et la mort."
+  "D": "Invoquez votre Charognard à plumes pourries et laissez son regard perçant révéler les ombres de votre voyage. Habillé de plumes en lambeaux qui font écho à la nuit, ce compagnon omniprésent veille sur votre épaule, un rappel effrayant de l'équilibre entre la vie et la mort."
  },
  "187322": {
   "D": "Vous apprendrez à invoquer cette monture volante.",
@@ -80504,7 +80504,7 @@
   "N": "Manteau de la Triade gelée"
  },
  "2061999": {
-  "N": "Spallières Shadowmeld des Réprouvés"
+  "N": "Spallières Camouflage dans l'ombre des Réprouvés"
  },
  "2062000": {
   "N": "Mantelet spirituel né de givre"
@@ -98924,7 +98924,7 @@
   "N": "Gantelets soudés aux flammes"
  },
  "2073233": {
-  "N": "Poignées Talonstrike"
+  "N": "Poignées Frappe-serres"
  },
  "2073235": {
   "N": "Gants de chantre runique"
@@ -106546,7 +106546,7 @@
   "N": "Lancer de lame de rapidité résiliente"
  },
  "2078587": {
-  "N": "Fusil de précision de Firestarter"
+  "N": "Fusil de précision de Boute-flammes"
  },
  "2078589": {
   "N": "Lame de lancer de crocs démoniaques"
@@ -114818,7 +114818,7 @@
  },
  "219019": {
   "D": "@Raid Ascensionné@",
-  "N": "Thunderfury, lame bénie du chercheur de vent"
+  "N": "Lame-tonnerre, lame bénie du chercheur de vent"
  },
  "219021": {
   "D": "@|cFFCC0000Bloodforged|r@"
@@ -115561,7 +115561,7 @@
  },
  "2202095": {
   "D": "Vous obtenez des cartes de compétence de Silas Darkmoon !\n\nVous pouvez activer des cartes de compétences dans la Collection carte de compétence entre les niveaux 1 et 9.",
-  "N": "Doré carte de compétence - Titanic Mutilate"
+  "N": "Doré carte de compétence - Mutilation titanique"
  },
  "2202096": {
   "D": "Vous obtenez des cartes de compétence de Silas Darkmoon !\n\nVous pouvez activer des cartes de compétences dans la Collection carte de compétence entre les niveaux 1 et 9.",
@@ -115665,7 +115665,7 @@
  },
  "2202436": {
   "D": "Vous obtenez des cartes de compétence de Silas Darkmoon !\n\nVous pouvez activer des cartes de compétence dans la collection de cartes de compétence entre les niveaux 1 et 9.",
-  "N": "Carte de compétence - Stormhammer"
+  "N": "Carte de compétence - Marteau-tempête"
  },
  "2202466": {
   "D": "Vous obtenez des cartes de compétence de Silas Darkmoon !\n\nVous pouvez activer des cartes de compétences dans la Collection carte de compétence entre les niveaux 1 et 9.",
@@ -115816,7 +115816,7 @@
  },
  "2202852": {
   "D": "Vous obtenez des cartes de compétence de Silas Darkmoon !\n\nVous pouvez activer des cartes de compétence dans la collection de cartes de compétence entre les niveaux 1 et 9.",
-  "N": "Carte de compétence - Edge of Fury"
+  "N": "Carte de compétence - Tranchant de colère"
  },
  "220286": {
   "D": "@Mythique 6@",
@@ -115976,7 +115976,7 @@
  },
  "2205103": {
   "D": "Vous obtenez des cartes de compétence de Silas Darkmoon !\r\n\r\nVous pouvez activer des cartes de compétence dans la collection de cartes de compétence entre les niveaux 1 et 9.",
-  "N": "Carte de compétence - Battle Glaive"
+  "N": "Carte de compétence - Glaive de bataille"
  },
  "2205113": {
   "D": "Vous obtenez des cartes de compétence de Silas Darkmoon !\r\n\r\nVous pouvez activer des cartes de compétence dans la collection de cartes de compétence entre les niveaux 1 et 9.",
@@ -116080,7 +116080,7 @@
  },
  "2205436": {
   "D": "Vous obtenez des cartes de compétence de Silas Darkmoon !\n\nVous pouvez activer des cartes de compétence dans la collection de cartes de compétence entre les niveaux 1 et 9.",
-  "N": "Carte de compétence dorée – Raptor Strike"
+  "N": "Carte de compétence dorée – Attaque du raptor"
  },
  "2205441": {
   "D": "Vous obtenez des cartes de compétence de Silas Darkmoon !\n\nVous pouvez activer des cartes de compétence dans la collection de cartes de compétence entre les niveaux 1 et 9."
@@ -117305,7 +117305,7 @@
  },
  "2216065": {
   "D": "Vous obtenez des cartes de compétence de Silas Darkmoon !\n\nVous pouvez activer des cartes de compétence dans la collection de cartes de compétence entre les niveaux 1 et 9.",
-  "N": "Carte de compétence - Mongoose Fury"
+  "N": "Carte de compétence - Fureur de la mangouste"
  },
  "2216067": {
   "D": "Vous obtenez des cartes de compétence de Silas Darkmoon !\n\nVous pouvez activer des cartes de compétences dans la Collection carte de compétence entre les niveaux 1 et 9.",
@@ -117609,7 +117609,7 @@
  },
  "2217039": {
   "D": "Vous obtenez des cartes de compétence de Silas Darkmoon !\n\nVous pouvez activer des cartes de compétence dans la collection de cartes de compétence entre les niveaux 1 et 9.",
-  "N": "Carte de compétence - Shieldsmasher"
+  "N": "Carte de compétence - Brise-boucliers"
  },
  "2217041": {
   "D": "Vous obtenez des cartes de compétence de Silas Darkmoon !\n\nVous pouvez activer des cartes de compétence dans la collection de cartes de compétence entre les niveaux 1 et 9.",
@@ -118088,7 +118088,7 @@
  },
  "2222285": {
   "D": "Vous obtenez des cartes de compétence de Silas Darkmoon !\r\n\r\nVous pouvez activer des cartes de compétence dans la collection de cartes de compétence entre les niveaux 1 et 9.",
-  "N": "Carte de compétence - Moonfire"
+  "N": "Carte de compétence - Eclat lunaire"
  },
  "2222289": {
   "D": "Vous obtenez des cartes de compétence de Silas Darkmoon !\r\n\r\nVous pouvez activer des cartes de compétences dans la Collection carte de compétence entre les niveaux 1 et 9.",
@@ -119900,7 +119900,7 @@
   "N": "Cape en thorium doré"
  },
  "22867": {
-  "N": "Vices liés de Blood Guard"
+  "N": "Vices liés de Garde de sang"
  },
  "228670": {
   "D": "@Raid Ascensionné@",
@@ -120160,7 +120160,7 @@
   "D": "Vous apprend à invoquer et renvoyer votre Larve impériale.\n\nC'est un compagnon non combattant."
  },
  "229770": {
-  "D": "Vous apprend à invoquer et renvoyer votre Jungle Grub.\n\nC'est un compagnon non combattant."
+  "D": "Vous apprend à invoquer et renvoyer votre Larve de la jungle.\n\nC'est un compagnon non combattant."
  },
  "229779": {
   "D": "@Mythique@",
@@ -121805,7 +121805,7 @@
   "N": "Filet de cerf frôle-lune"
  },
  "236814": {
-  "D": "Peut être utilisé pour transformer votre capacité Wind Shear en transmogrificateur."
+  "D": "Peut être utilisé pour transformer votre capacité Cisaille de vent en transmogrificateur."
  },
  "236815": {
   "D": "Peut être utilisé pour transformer votre capacité Blink en transmogrificateur."
@@ -125894,22 +125894,22 @@
   "N": "Broyeur de Marche-Ombres nuisible (main secondaire)"
  },
  "247874": {
-  "N": "Déchiqueteur de Shadewalker corrompu (main principale)"
+  "N": "Déchiqueteur de Marcheur d'ombres corrompu (main principale)"
  },
  "247875": {
-  "N": "Déchiqueteur de Shadewalker corrompu (main secondaire)"
+  "N": "Déchiqueteur de Marcheur d'ombres corrompu (main secondaire)"
  },
  "247876": {
-  "N": "Déchiqueteur de Shadewalker ruineux (main principale)"
+  "N": "Déchiqueteur de Marcheur d'ombres ruineux (main principale)"
  },
  "247877": {
-  "N": "Déchiqueteur de Shadewalker ruineux (main secondaire)"
+  "N": "Déchiqueteur de Marcheur d'ombres ruineux (main secondaire)"
  },
  "247878": {
-  "N": "Déchiqueteur du méchant Shadewalker (main principale)"
+  "N": "Déchiqueteur du méchant Marcheur d'ombres (main principale)"
  },
  "247879": {
-  "N": "Déchiqueteur du méchant Shadewalker (main secondaire)"
+  "N": "Déchiqueteur du méchant Marcheur d'ombres (main secondaire)"
  },
  "247880": {
   "N": "Broyeur du sinistre Shadewalker (main principale)"
@@ -132732,7 +132732,7 @@
   "D": "@Mythique 8@"
  },
  "2615021": {
-  "D": "Faites un clic droit sur moi !\r\n\r\nSélectionnez une classe et recevez :\r\n- Tenue virulente de Plaguebringer\r\n- Bâton magique d'apothicaire\r\n- Clés du chariot à viande du Nécro-seigneur",
+  "D": "Faites un clic droit sur moi !\r\n\r\nSélectionnez une classe et recevez :\r\n- Tenue virulente de Porte-peste\r\n- Bâton magique d'apothicaire\r\n- Clés du chariot à viande du Nécro-seigneur",
   "N": "Pack de classe Nécromancien"
  },
  "2615022": {
@@ -135595,10 +135595,10 @@
   "N": "Masque mortuaire du sinistre Shadewalker"
  },
  "278512": {
-  "N": "Spallières lames du sinistre Shadewalker"
+  "N": "Spallières lames du sinistre Marcheur d'ombres"
  },
  "278513": {
-  "N": "Spallière lame du sinistre Shadewalker"
+  "N": "Spallière lame du sinistre Marcheur d'ombres"
  },
  "278514": {
   "N": "Boucle du sinistre Shadewalker"
@@ -136691,7 +136691,7 @@
   "N": "Gants pestilentiels du porte-peste"
  },
  "279166": {
-  "N": "Jambières pestilentielles de Plaguebringer"
+  "N": "Jambières pestilentielles de Porte-peste"
  },
  "279167": {
   "N": "Ceinture pestilentielle de Plaguebringer"
@@ -136706,7 +136706,7 @@
   "N": "Libram du repos éternel"
  },
  "279170": {
-  "N": "Drapé pestilentiel de Plaguebringer"
+  "N": "Drapé pestilentiel de Porte-peste"
  },
  "279171": {
   "N": "Masque pestilentiel du porteur de la peste"
@@ -136715,7 +136715,7 @@
   "N": "Manteau pestilentiel du porteur de la peste"
  },
  "279173": {
-  "N": "Garde-épaule pestilentielle de Plaguebringer"
+  "N": "Garde-épaule pestilentielle de Porte-peste"
  },
  "279174": {
   "N": "Boucle pestilentielle de Plaguebringer"
@@ -136754,7 +136754,7 @@
   "N": "Mantelet virulent du porte-peste"
  },
  "279186": {
-  "N": "Garde-épaule virulente de Plaguebringer"
+  "N": "Garde-épaule virulente de Porte-peste"
  },
  "279187": {
   "N": "Boucle virulente de Plaguebringer"
@@ -136772,7 +136772,7 @@
   "N": "Gants miasmiques de porte-peste"
  },
  "279192": {
-  "N": "Jambières miasmiques de Plaguebringer"
+  "N": "Jambières miasmiques de Porte-peste"
  },
  "279193": {
   "N": "Ceinture miasmique de Plaguebringer"
@@ -136784,7 +136784,7 @@
   "N": "Bottes miasmiques de Plaguebringer"
  },
  "279196": {
-  "N": "Drapé miasmique de Plaguebringer"
+  "N": "Drapé miasmique de Porte-peste"
  },
  "279197": {
   "N": "Masque miasmique de Plaguebringer"
@@ -136793,7 +136793,7 @@
   "N": "Manteau miasmique de Plaguebringer"
  },
  "279199": {
-  "N": "Garde-épaule miasmique de Plaguebringer"
+  "N": "Garde-épaule miasmique de Porte-peste"
  },
  "27920": {
   "N": "Marque de conquête"
@@ -143965,11 +143965,11 @@
   "N": "Ensemble Arlequin de Sombrelune"
  },
  "2977357": {
-  "D": "Contient :\r\n\r\n- 10x Parchemin du gardien : Golganneth\r\n- 10x Parchemin du gardien : Norgannon\r\n- 10x Parchemin du gardien : Khaz'goroth\r\n- 10x Parchemin du gardien : Aggramar\r\n- 10x Parchemin du gardien : Eonar\r\n- 5x Parchemin du gardien : Inébranlable\r\n- 5x Parchemin du gardien : Chute de plumes\r\n- 5x Parchemin du gardien : Ghost Runner\r\n- 5x Parchemin du gardien : Gathering Speed\r\n- 5x parchemin du gardien : vitesse de fabrication\r\n\r\n|cFFFF5500IMPORTANT :|r Assurez-vous de l'ouvrir sur le personnage sur lequel vous souhaitez recevoir les récompenses, car le |cFFFF5500contenu ne peut pas être transféré ou récupéré.|r",
+  "D": "Contient :\r\n\r\n- 10x Parchemin du gardien : Golganneth\r\n- 10x Parchemin du gardien : Norgannon\r\n- 10x Parchemin du gardien : Khaz'goroth\r\n- 10x Parchemin du gardien : Aggramar\r\n- 10x Parchemin du gardien : Eonar\r\n- 5x Parchemin du gardien : Inébranlable\r\n- 5x Parchemin du gardien : Chute de plumes\r\n- 5x Parchemin du gardien : Ghost Runner\r\n- 5x Parchemin du gardien : Prise de vitesse\r\n- 5x parchemin du gardien : vitesse de fabrication\r\n\r\n|cFFFF5500IMPORTANT :|r Assurez-vous de l'ouvrir sur le personnage sur lequel vous souhaitez recevoir les récompenses, car le |cFFFF5500contenu ne peut pas être transféré ou récupéré.|r",
   "N": "Cache de défilement (Soulbound)"
  },
  "2977358": {
-  "D": "Contient :\r\n\r\n- 10x Parchemin du gardien : Golganneth\r\n- 10x Parchemin du gardien : Norgannon\r\n- 10x Parchemin du gardien : Khaz'goroth\r\n- 10x Parchemin du gardien : Aggramar\r\n- 10x Parchemin du gardien : Eonar\r\n- 5x Parchemin du gardien : Inébranlable\r\n- 5x Parchemin du gardien : Chute de plumes\r\n- 5x Parchemin du gardien : Ghost Runner\r\n- 5x Parchemin du gardien : Gathering Speed\r\n- 5x parchemin du gardien : vitesse de fabrication",
+  "D": "Contient :\r\n\r\n- 10x Parchemin du gardien : Golganneth\r\n- 10x Parchemin du gardien : Norgannon\r\n- 10x Parchemin du gardien : Khaz'goroth\r\n- 10x Parchemin du gardien : Aggramar\r\n- 10x Parchemin du gardien : Eonar\r\n- 5x Parchemin du gardien : Inébranlable\r\n- 5x Parchemin du gardien : Chute de plumes\r\n- 5x Parchemin du gardien : Ghost Runner\r\n- 5x Parchemin du gardien : Prise de vitesse\r\n- 5x parchemin du gardien : vitesse de fabrication",
   "N": "Cache de défilement"
  },
  "2977359": {
@@ -148942,7 +148942,7 @@
  },
  "319019": {
   "D": "@Raid Héroïque@",
-  "N": "Thunderfury, lame bénie du chercheur de vent"
+  "N": "Lame-tonnerre, lame bénie du chercheur de vent"
  },
  "319136": {
   "D": "@Raid héroïque@",
@@ -154724,7 +154724,7 @@
   "D": "@Mondeforgé@"
  },
  "354286": {
-  "D": "Une recette de l'ancien empire Kaldorei, conservée toutes ces années par l'étrange dépôt. Vous apprend à préparer un Miru Berry Strudel."
+  "D": "Une recette de l'ancien empire Kaldorei, conservée toutes ces années par l'étrange dépôt. Vous apprend à préparer un Strudel aux baies Miru."
  },
  "354287": {
   "N": "Strudel aux baies Miru"
@@ -175856,16 +175856,16 @@
   "N": "Espadon de la chute de la fierté (bleu)"
  },
  "499300": {
-  "N": "Xal'atoh, image profanée de Gorehowl (rouge)"
+  "N": "Xal'atoh, image profanée de Hurlesang (rouge)"
  },
  "499301": {
-  "N": "Xal'atoh, image profanée de Gorehowl (violet)"
+  "N": "Xal'atoh, image profanée de Hurlesang (violet)"
  },
  "499302": {
-  "N": "Xal'atoh, image profanée de Gorehowl (Vert)"
+  "N": "Xal'atoh, image profanée de Hurlesang (Vert)"
  },
  "499303": {
-  "N": "Xal'atoh, image profanée de Gorehowl (bleu)"
+  "N": "Xal'atoh, image profanée de Hurlesang (bleu)"
  },
  "499304": {
   "D": "Vous apprend à invoquer cette monture. Cette monture est capable de voler."
@@ -187601,7 +187601,7 @@
   "D": "Vous apprend à invoquer ce compagnon.\n\nC'est un compagnon non combattant."
  },
  "559565": {
-  "D": "Apprenez à utiliser le Zandalari Gong : posez-le au sol et frappez-le."
+  "D": "Apprenez à utiliser le Gong zandalari : posez-le au sol et frappez-le."
  },
  "559567": {
   "D": "Vous apprend à invoquer un trône réactif volatile."
@@ -188217,7 +188217,7 @@
   "D": "<Fragment de brochure griffonné. Quelques mots restent lisibles, et rien d'autre.>\r\n\r\nL’époque où le Feu était asservi peut revenir. Et nous, à notre tour, pouvons être libérés. Les flammes vacillent encore de terreur à la simple pensée de leur ancien maître."
  },
  "559902": {
-  "D": "<Fragment de brochure griffonné. Quelques mots restent lisibles, et rien d'autre.>\r\n\r\nLa guilde Shadowburn connaît le chemin. Seul l'Archwarlock peut libérer notre clan de l'humiliation. Avec le temps, même Ragnaros brisera les chaînes de sa servitude."
+  "D": "<Fragment de brochure griffonné. Quelques mots restent lisibles, et rien d'autre.>\r\n\r\nLa guilde Brûlure de l'ombre connaît le chemin. Seul l'Archwarlock peut libérer notre clan de l'humiliation. Avec le temps, même Ragnaros brisera les chaînes de sa servitude."
  },
  "559903": {
   "N": "Belorita"
@@ -188319,7 +188319,7 @@
   "N": "Cisailles"
  },
  "559956": {
-  "D": "<Fragment de brochure griffonné. Quelques mots restent lisibles, et rien d'autre.>\r\n\r\nLa guilde Shadowburn connaît le chemin. Seul l'Archwarlock peut libérer notre clan de l'humiliation. Avec le temps, même Ragnaros brisera les chaînes de sa servitude."
+  "D": "<Fragment de brochure griffonné. Quelques mots restent lisibles, et rien d'autre.>\r\n\r\nLa guilde Brûlure de l'ombre connaît le chemin. Seul l'Archwarlock peut libérer notre clan de l'humiliation. Avec le temps, même Ragnaros brisera les chaînes de sa servitude."
  },
  "559960": {
   "N": "Assortiment de fromages"
@@ -189778,7 +189778,7 @@
   "N": "Tailleur de rêves doré de Dream Raider"
  },
  "574551": {
-  "N": "Sculpteur de rêves Shadowflame de Dream Raider"
+  "N": "Sculpteur de rêves Ombreflamme de Dream Raider"
  },
  "574552": {
   "N": "Fusil azur de Dream Raider"
@@ -189866,7 +189866,7 @@
   "N": "Défenseur doré de Dream Raider"
  },
  "574581": {
-  "N": "Défenseur Shadowflame de Dream Raider"
+  "N": "Défenseur Ombreflamme de Dream Raider"
  },
  "574582": {
   "N": "Barrière azurée de Dream Raider"
@@ -196812,7 +196812,7 @@
  },
  "6014024": {
   "D": "@|cFFCC0000Bloodforged|r@",
-  "N": "Frightalon forgé par le sang"
+  "N": "Serre d'effroi forgé par le sang"
  },
  "6014139": {
   "D": "@|cFFCC0000Bloodforged|r@",
@@ -197252,7 +197252,7 @@
  },
  "6016089": {
   "D": "@|cFFCC0000Bloodforged|r@",
-  "N": "Médaillon Blazefury forgé par le sang"
+  "N": "Médaillon Brasefurie forgé par le sang"
  },
  "60161": {
   "D": "Vous apprendrez à invoquer cette mascotte."
@@ -198657,7 +198657,7 @@
  },
  "6017913": {
   "D": "@|cFFCC0000Bloodforged|r@",
-  "N": "Cape de guerre Frostbite forgée par le sang"
+  "N": "Cape de guerre Morsure de givre forgée par le sang"
  },
  "60180": {
   "D": "Vous apprend à invoquer ce compagnon.\n\nC'est un compagnon non combattant."
@@ -202060,7 +202060,7 @@
  },
  "6022394": {
   "D": "@|cFFCC0000Bloodforged|r@",
-  "N": "Bâton forgé par le sang de Metanoia"
+  "N": "Bâton forgé par le sang de Metanoïa"
  },
  "6022395": {
   "D": "@|cFFCC0000Bloodforged|r@",
@@ -202499,7 +202499,7 @@
  },
  "6023063": {
   "D": "@|cFFCC0000Bloodforged|r@",
-  "N": "Anneau de Plagueheart forgé par le sang"
+  "N": "Anneau de Pestecœur forgé par le sang"
  },
  "6023066": {
   "D": "@|cFFCC0000Bloodforged|r@",
@@ -204346,7 +204346,7 @@
  },
  "6028427": {
   "D": "@|cFFCC0000Bloodforged|r@",
-  "N": "Blazefury forgé par le sang"
+  "N": "Brasefurie forgé par le sang"
  },
  "6028429": {
   "D": "@|cFFCC0000Bloodforged|r@",
@@ -207196,11 +207196,11 @@
  },
  "6039498": {
   "D": "@|cFFCC0000Bloodforged|r@",
-  "N": "Jambières Plagueheart des héros de Bloodforged"
+  "N": "Jambières Pestecœur des héros de Bloodforged"
  },
  "6039499": {
   "D": "@|cFFCC0000Bloodforged|r@",
-  "N": "Protège-épaules Plagueheart des héros Bloodforged"
+  "N": "Protège-épaules Pestecœur des héros Bloodforged"
  },
  "6039500": {
   "D": "@|cFFCC0000Bloodforged|r@",
@@ -207312,7 +207312,7 @@
  },
  "6040420": {
   "D": "@|cFFCC0000Bloodforged|r@",
-  "N": "Gants de Plagueheart valeureux forgés par le sang"
+  "N": "Gants de Pestecœur valeureux forgés par le sang"
  },
  "6040421": {
   "D": "@|cFFCC0000Bloodforged|r@",
@@ -212302,7 +212302,7 @@
  },
  "6314024": {
   "D": "@|cFFCC0000Héroïque Bloodforged|r@",
-  "N": "Frightalon forgé par le sang"
+  "N": "Serre d'effroi forgé par le sang"
  },
  "6314340": {
   "D": "@|cFFCC0000Héroïque Bloodforged|r@",
@@ -215599,7 +215599,7 @@
  },
  "6322394": {
   "D": "@|cFFCC0000Héroïque Bloodforged|r@",
-  "N": "Bâton forgé par le sang de Metanoia"
+  "N": "Bâton forgé par le sang de Metanoïa"
  },
  "6322395": {
   "D": "@|cFFCC0000Héroïque Bloodforged|r@",
@@ -217910,7 +217910,7 @@
  },
  "6333283": {
   "D": "@|cFFCC0000Heroic Bloodforged|r@",
-  "N": "Punisher Amani forgé par le sang"
+  "N": "Punisseur Amani forgé par le sang"
  },
  "6333285": {
   "D": "@|cFFCC0000Heroic Bloodforged|r@",
@@ -219462,10 +219462,10 @@
   "D": "Vous apprendrez à invoquer cette mascotte."
  },
  "64372": {
-  "D": "Vous apprend à invoquer et renvoyer Clockwork Gnome."
+  "D": "Vous apprend à invoquer et renvoyer Gnome mécanique."
  },
  "64403": {
-  "D": "Vous apprend à invoquer et renvoyer Fox Kit.\n\nC'est un compagnon non combattant."
+  "D": "Vous apprend à invoquer et renvoyer Renardeau.\n\nC'est un compagnon non combattant."
  },
  "64423": {
   "D": "Vous apprendrez à invoquer cette mascotte.",
@@ -220901,7 +220901,7 @@
  },
  "667212": {
   "D": "Un ensemble cosmétique destiné à être utilisé avec la transmogrification. Vous pouvez voir à quoi ressemblent les coffrets cosmétiques dans la collection Vanity. Ceux-ci peuvent être obtenus auprès d'autres joueurs, de la maison de vente aux enchères ou de la boutique Ascension.",
-  "N": "Ensemble cosmétique Grove Warden"
+  "N": "Ensemble cosmétique Gardien du bosquet"
  },
  "667294": {
   "D": "Feu et Fureur !",
@@ -221406,7 +221406,7 @@
   "D": "Vous apprend à invoquer et à renvoyer une lampe magique.\n\nC'est un compagnon non combattant."
  },
  "67282": {
-  "D": "Vous apprend à invoquer et renvoyer Elementium Geode.\n\nC'est un compagnon non combattant."
+  "D": "Vous apprend à invoquer et renvoyer Géode d'élémentium.\n\nC'est un compagnon non combattant."
  },
  "673294": {
   "N": "Capuche velue de wendigo"
@@ -224396,7 +224396,7 @@
   "D": "Vous apprendrez à invoquer cette mascotte."
  },
  "72134": {
-  "D": "Vous apprend à invoquer et renvoyer Gregarious Grell.\n\nC'est un compagnon non combattant."
+  "D": "Vous apprend à invoquer et renvoyer Grell grégaire.\n\nC'est un compagnon non combattant."
  },
  "72135": {
   "D": "Vous apprendrez à invoquer cette mascotte."
@@ -230619,7 +230619,7 @@
   "N": "Talisman de ténacité"
  },
  "80298": {
-  "D": "Bien sûr, je peux vous aider avec ça. Cependant, il semble que \"@Dragonhawk@\" soit un nom d'utilisateur ou un pseudo, qui ne se traduit généralement pas. Si vous avez d'autres textes à traduire, n'hésitez pas à les fournir, et je serai ravi de vous aider !"
+  "D": "Bien sûr, je peux vous aider avec ça. Cependant, il semble que \"@Faucon-dragon@\" soit un nom d'utilisateur ou un pseudo, qui ne se traduit généralement pas. Si vous avez d'autres textes à traduire, n'hésitez pas à les fournir, et je serai ravi de vous aider !"
  },
  "802982": {
   "D": "@Mythique 28@",
@@ -231858,7 +231858,7 @@
   "N": "Garde-jambes Zephyr Windfury"
  },
  "81880": {
-  "N": "Guides Zéphyr Windfury Esprit"
+  "N": "Guides Zéphyr Furie des vents Esprit"
  },
  "81881": {
   "N": "Brassards Furie-des-vents"
@@ -232770,16 +232770,16 @@
   "N": "Sabates de plaque de bataille Behemoth"
  },
  "820132": {
-  "N": "Grèves de plaques de combat Behemoth"
+  "N": "Grèves de plaques de combat Béhémoth"
  },
  "820133": {
   "N": "Sangle de bataille Behemoth"
  },
  "820134": {
-  "N": "Protège-mains de plaque de combat Behemoth"
+  "N": "Protège-mains de plaque de combat Béhémoth"
  },
  "820135": {
-  "N": "Protège-bras de plaque de combat Behemoth"
+  "N": "Protège-bras de plaque de combat Béhémoth"
  },
  "820136": {
   "N": "Cuirasse de plaque de combat Behemoth"
@@ -232818,7 +232818,7 @@
   "N": "Sabots d'armure Dreadnought"
  },
  "820150": {
-  "N": "Grèves d'armure Dreadnought"
+  "N": "Grèves d'armure Cuirassé"
  },
  "820151": {
   "N": "Sangle d'armure Dreadnought"
@@ -236499,7 +236499,7 @@
   "N": "Cape en écorce de mithril"
  },
  "83797": {
-  "D": "Cette pierre est ajoutée à votre collection et utilisable sur tous les personnages dotés de la capacité Enslave Demon."
+  "D": "Cette pierre est ajoutée à votre collection et utilisable sur tous les personnages dotés de la capacité Asservir démon."
  },
  "837996": {
   "N": "Main du destin VII"
@@ -237057,7 +237057,7 @@
  },
  "844513": {
   "D": "Le texte \"@Bear@\" ne contient aucun mot nécessitant une traduction. Il semble s'agir d'un nom d'utilisateur ou d'un pseudo, qui ne nécessite généralement pas de traduction. Si vous avez d'autres textes à traduire, n'hésitez pas à les fournir, et je serai ravi de vous aider !",
-  "N": "Sifflet du maître des bêtes : Amber Shardhide"
+  "N": "Sifflet du maître des bêtes : Peau d'éclat d'ambre"
  },
  "844514": {
   "D": "@Ours@",
@@ -237984,7 +237984,7 @@
   "N": "[NOM DE L'ARTICLE MANQUANT]"
  },
  "85775": {
-  "D": "Ce vélin est ajouté à votre collection et utilisable sur tous les personnages dotés de la capacité Dominate Undead.",
+  "D": "Ce vélin est ajouté à votre collection et utilisable sur tous les personnages dotés de la capacité Dominer les morts-vivants.",
   "N": "Vélin imbibé de sang : démon squelettique"
  },
  "85779": {
@@ -245205,10 +245205,10 @@
   "D": "Bien sûr, je peux vous aider avec ça. Cependant, il semble que \"@Skeleton@\" ne soit pas un texte typique pouvant être traduit. Pourriez-vous s'il vous plaît fournir plus de contexte ou clarifier ce que vous avez besoin de traduire ?"
  },
  "89140": {
-  "D": "Ce vélin est ajouté à votre collection et utilisable sur tous les personnages dotés de la capacité Dominate Undead."
+  "D": "Ce vélin est ajouté à votre collection et utilisable sur tous les personnages dotés de la capacité Dominer les morts-vivants."
  },
  "89141": {
-  "D": "Ce vélin est ajouté à votre collection et utilisable sur tous les personnages dotés de la capacité Dominate Undead."
+  "D": "Ce vélin est ajouté à votre collection et utilisable sur tous les personnages dotés de la capacité Dominer les morts-vivants."
  },
  "89142": {
   "D": "Bien sûr, je peux vous aider avec ça. Cependant, il semble que \"@Skeleton@\" ne soit pas un texte typique nécessitant une traduction. Si vous vouliez traduire le mot \"squelette\" en français, cela serait \"squelette\". Si vous avez un texte différent ou plus de contexte, veuillez le fournir, et je serai heureux de vous aider !"
@@ -245623,7 +245623,7 @@
   "N": "Jeton de prestige"
  },
  "90005": {
-  "D": "Peut être utilisé pour transformer votre capacité Life Tap en transmogrificateur.",
+  "D": "Peut être utilisé pour transformer votre capacité Connexion en transmogrificateur.",
   "N": "Robinet de vie explosif"
  },
  "900091": {
@@ -245663,11 +245663,11 @@
   "N": "Bâton de l'archimage"
  },
  "90039": {
-  "D": "Peut être utilisé pour transformer votre capacité Life Tap en transmogrificateur.",
+  "D": "Peut être utilisé pour transformer votre capacité Connexion en transmogrificateur.",
   "N": "Robinet de vie spirituelle"
  },
  "90040": {
-  "D": "Peut être utilisé pour transformer votre capacité Life Tap en transmogrificateur.",
+  "D": "Peut être utilisé pour transformer votre capacité Connexion en transmogrificateur.",
   "N": "Robinet de vie druidique"
  },
  "900550": {
@@ -245748,15 +245748,15 @@
   "N": "Bannissement"
  },
  "90178": {
-  "D": "Peut être utilisé pour transformer votre capacité Life Tap en transmogrificateur.",
+  "D": "Peut être utilisé pour transformer votre capacité Connexion en transmogrificateur.",
   "N": "Robinet de vie glaciale"
  },
  "90179": {
-  "D": "Peut être utilisé pour transformer votre capacité Life Tap en transmogrificateur.",
+  "D": "Peut être utilisé pour transformer votre capacité Connexion en transmogrificateur.",
   "N": "Robinet de vie épouvantable"
  },
  "90180": {
-  "D": "Peut être utilisé pour transformer votre capacité Life Tap en transmogrificateur.",
+  "D": "Peut être utilisé pour transformer votre capacité Connexion en transmogrificateur.",
   "N": "Robinet de vie brutale"
  },
  "90181": {
@@ -245788,27 +245788,27 @@
   "N": "Clignement brutal"
  },
  "90187": {
-  "D": "Peut être utilisé pour transformer votre capacité Wind Shear en transmogrificateur.",
+  "D": "Peut être utilisé pour transformer votre capacité Cisaille de vent en transmogrificateur.",
   "N": "Cisaillement du vent flamboyant"
  },
  "90203": {
-  "D": "Peut être utilisé pour transformer votre capacité Wind Shear en transmogrificateur.",
+  "D": "Peut être utilisé pour transformer votre capacité Cisaille de vent en transmogrificateur.",
   "N": "Cisaillement du vent fantomatique"
  },
  "90204": {
-  "D": "Peut être utilisé pour transformer votre capacité Wind Shear en transmogrificateur.",
+  "D": "Peut être utilisé pour transformer votre capacité Cisaille de vent en transmogrificateur.",
   "N": "Cisaillement du vent tempétueux"
  },
  "90205": {
-  "D": "Peut être utilisé pour transformer votre capacité Wind Shear en transmogrificateur.",
+  "D": "Peut être utilisé pour transformer votre capacité Cisaille de vent en transmogrificateur.",
   "N": "Cisaillement du vent polaire"
  },
  "90206": {
-  "D": "Peut être utilisé pour transformer votre capacité Wind Shear en transmogrificateur.",
+  "D": "Peut être utilisé pour transformer votre capacité Cisaille de vent en transmogrificateur.",
   "N": "Cisaillement du vent angélique"
  },
  "90207": {
-  "D": "Peut être utilisé pour transformer votre capacité Wind Shear en transmogrificateur."
+  "D": "Peut être utilisé pour transformer votre capacité Cisaille de vent en transmogrificateur."
  },
  "903016": {
   "D": "@Worldforged@Cela atténuera l'avantage... rien de mal n'en sortira sûrement.",
@@ -246531,11 +246531,11 @@
   "N": "[NOM DE L'ARTICLE MANQUANT]"
  },
  "920000": {
-  "D": "Frostmourne a été mécontent au combat",
+  "D": "Deuillegivre a été mécontent au combat",
   "N": "Deuillegivre démantelé"
  },
  "920001": {
-  "D": "Frostmourne a été mécontent au combat",
+  "D": "Deuillegivre a été mécontent au combat",
   "N": "Deuillegivre réconcilié"
  },
  "9200570": {
@@ -249450,7 +249450,7 @@
  },
  "980060": {
   "D": "@Elekk@",
-  "N": "Sifflet du maître des bêtes : Pink Elekk"
+  "N": "Sifflet du maître des bêtes : Elekk rose"
  },
  "98008": {
   "D": "Cela semble très ancien et unique mais a perdu de son pouvoir, il existe peut-être un moyen de le restaurer."
