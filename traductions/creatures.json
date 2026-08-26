@@ -844,6 +844,9 @@
   "N": "Jinx Swiftchop",
   "S": "Cuisinier"
  },
+ "10055": {
+  "S": "Maître des écuries"
+ },
  "100566": {
   "N": "Implantation gangrefeu"
  },
@@ -1199,6 +1202,9 @@
  "1036561": {
   "N": "Garde du repaire onyxien"
  },
+ "10369": {
+  "S": "Marchand d'armes"
+ },
  "103888": {
   "N": "Clarabelle"
  },
@@ -1207,6 +1213,9 @@
  },
  "1040029": {
   "N": "Frappe de météore"
+ },
+ "10440": {
+  "N": "Baron Vaillefendre"
  },
  "10467": {
   "N": "Totem de vague de mana"
@@ -1421,6 +1430,9 @@
  "1051123": {
   "N": "Chromaggus marche vers moi (3)"
  },
+ "10556": {
+  "N": "Péon fainéant"
+ },
  "105764": {
   "N": "Growler blindé sauvage"
  },
@@ -1438,6 +1450,9 @@
  },
  "105769": {
   "N": "Growler blindé féroce"
+ },
+ "10578": {
+  "S": "Apprenti féticheur"
  },
  "105926": {
   "N": "Totem de marche-vent"
@@ -1484,6 +1499,10 @@
  "105944": {
   "N": "Marteau de Lumière"
  },
+ "1060": {
+  "N": "Mogh l'Immortel",
+  "S": "Féticheur du clan Casse-crâne"
+ },
  "106016": {
   "N": "Totem de protection élémentaire invoqué"
  },
@@ -1496,12 +1515,25 @@
  "106067": {
   "N": "Tauralus blindé gangrené"
  },
+ "10662": {
+  "N": "Gueulesort"
+ },
+ "10665": {
+  "N": "Apprenti apothicaire Holland",
+  "S": "Société royale des apothicaires"
+ },
+ "10685": {
+  "N": "Pourceau"
+ },
  "107028": {
   "N": "Thar'zul"
  },
  "107999": {
   "N": "Tyrande Murmevent",
   "S": "Grande Prêtresse d'Élune"
+ },
+ "10802": {
+  "N": "Hitah'ya la Gardienne"
  },
  "108312": {
   "N": "Livre destiné à l'Ascension"
@@ -2159,6 +2191,9 @@
  "110217": {
   "N": "Totem brûlant invoqué"
  },
+ "11025": {
+  "S": "Maître des ingénieurs"
+ },
  "1102523": {
   "N": "Totem incendiaire"
  },
@@ -2206,6 +2241,9 @@
  },
  "1103913": {
   "N": "Totem Griffe-de-Pierre IV"
+ },
+ "1104": {
+  "S": "Armurier"
  },
  "110517": {
   "N": "Kart PUR-PL3 D.R.I.V.E"
@@ -2433,6 +2471,12 @@
  "1115464": {
   "N": "Force du Totem terrestre V"
  },
+ "11155": {
+  "N": "Cheval squelette bai"
+ },
+ "11156": {
+  "N": "Cheval de guerre squelette vert"
+ },
  "111583": {
   "N": "Néfarian (1)",
   "S": "BWL"
@@ -2569,8 +2613,20 @@
  "113477": {
   "N": "Déclencheur d'arbre péon"
  },
+ "11359": {
+  "N": "Ecorcheur d'âmes"
+ },
+ "11378": {
+  "N": "Contremaître Thazz'ril"
+ },
  "1137994": {
   "N": "Élémentaire d'eau"
+ },
+ "11380": {
+  "N": "Jin'do le Maléficieur"
+ },
+ "11382": {
+  "N": "Seigneur sanglant Mandokir"
  },
  "114020": {
   "N": "Chromaggus (1)",
@@ -2589,14 +2645,20 @@
   "N": "Bélier gris rapide"
  },
  "114549": {
-  "N": "Pack Kodo"
+  "N": "Kodo de bât"
  },
  "114601": {
   "N": "Ébèneroc (1)",
   "S": "BWL"
  },
+ "11492": {
+  "N": "Alzzin le Modeleur"
+ },
  "1150": {
   "N": "Crocilisque des rivières"
+ },
+ "11501": {
+  "N": "Roi Gordok"
  },
  "1151": {
   "N": "Crocilisque marin"
@@ -2984,6 +3046,12 @@
   "N": "Gardien des portes Main de Fer (1)",
   "S": "Mécha"
  },
+ "11983": {
+  "N": "Gueule-de-feu"
+ },
+ "11988": {
+  "N": "Golemagg l'Incinérateur"
+ },
  "119921": {
   "N": "Traqueur du ciel azur"
  },
@@ -3024,9 +3092,18 @@
  "119932": {
   "N": "Terreur de la flèche intacte du traître"
  },
+ "12017": {
+  "N": "Seigneur des couvées Lanistaire"
+ },
+ "12018": {
+  "N": "Chambellan Executus"
+ },
  "120870": {
   "N": "Zereketh le Délié (1)",
   "S": "Arca"
+ },
+ "12098": {
+  "N": "Messager de Sulfuron"
  },
  "1210184": {
   "N": "Druide de l'équilibre"
@@ -3052,8 +3129,23 @@
  "1219": {
   "N": "Talon flottant"
  },
+ "12201": {
+  "N": "Princesse Theradras"
+ },
  "122222": {
   "N": "455 nouvelles personnalisations de course"
+ },
+ "12225": {
+  "N": "Celebras le Maudit"
+ },
+ "12236": {
+  "N": "Seigneur Vylelangue"
+ },
+ "1225": {
+  "N": "Vieux Noiraud"
+ },
+ "12258": {
+  "N": "Tranchefouet"
  },
  "12268": {
   "N": "Ombre de Lucifron"
@@ -3151,6 +3243,27 @@
  "123380": {
   "N": "Veau de rivière albinos"
  },
+ "12341": {
+  "N": "Cheval squelette bleu"
+ },
+ "12342": {
+  "N": "Cheval squelette bai"
+ },
+ "12343": {
+  "N": "Cheval squelette rouge"
+ },
+ "12346": {
+  "N": "Raptor émeraude de monte"
+ },
+ "12349": {
+  "N": "Raptor turquoise de monte"
+ },
+ "12350": {
+  "N": "Raptor violet de monte"
+ },
+ "12351": {
+  "N": "Loup redoutable de monte"
+ },
  "123574": {
   "N": "Akil'zon (1)",
   "S": "ZA"
@@ -3162,6 +3275,12 @@
  "124239": {
   "N": "Seigneur maléfique Malacrass (1)",
   "S": "ZA"
+ },
+ "12428": {
+  "N": "Nécrogarde Kel"
+ },
+ "12435": {
+  "N": "Tranchetripe l'Indompté"
  },
  "124379": {
   "N": "Ours de guerre Amani violet",
@@ -3253,6 +3372,9 @@
  "1285601": {
   "N": "Cavalier chanteguerre"
  },
+ "12922": {
+  "N": "Diablotin serviteur"
+ },
  "129235": {
   "N": "Minion Diablotin"
  },
@@ -3273,6 +3395,9 @@
  },
  "130104": {
   "N": "Source antique errante"
+ },
+ "13020": {
+  "N": "Vaelastrasz le Corrompu"
  },
  "130410": {
   "N": "Esprit du Baron Rivendare (1)",
@@ -3308,6 +3433,9 @@
  },
  "135476": {
   "N": "Brique glissante Linbunk"
+ },
+ "1364": {
+  "N": "Balgaras le Crasseux"
  },
  "136531": {
   "N": "Chevalier de guerre lame solaire"
@@ -4360,6 +4488,39 @@
  "144889": {
   "N": "Métamorphose (rouge)"
  },
+ "14507": {
+  "N": "Grand prêtre Venoxis"
+ },
+ "14509": {
+  "N": "Grand prêtre Thekal"
+ },
+ "14510": {
+  "N": "Grande prêtresse Mar'li"
+ },
+ "14515": {
+  "N": "Grande prêtresse Arlokk"
+ },
+ "14517": {
+  "N": "Grande prêtresse Jeklik"
+ },
+ "14539": {
+  "N": "Loup des bois rapide"
+ },
+ "14540": {
+  "N": "Loup brun rapide"
+ },
+ "14543": {
+  "N": "Raptor vert olive rapide"
+ },
+ "14544": {
+  "N": "Raptor orange rapide"
+ },
+ "14545": {
+  "N": "Raptor bleu rapide"
+ },
+ "14558": {
+  "N": "Cheval de guerre squelette violet"
+ },
  "146001": {
   "N": "Guerrier squelettique"
  },
@@ -4786,6 +4947,9 @@
  },
  "146209": {
   "N": "Esprit d'Eldreth"
+ },
+ "14621": {
+  "N": "Surveillant Maltorius"
  },
  "146210": {
   "N": "Spectre d'Eldreth"
@@ -5818,8 +5982,14 @@
  "149429": {
   "N": "Templier glaciaire"
  },
+ "1495": {
+  "N": "Nécrogarde Linnea"
+ },
  "149553": {
   "N": "Élémentaire d'eau déferlante"
+ },
+ "1496": {
+  "N": "Nécrogarde Dillinger"
  },
  "149633": {
   "N": "Exil grondant"
@@ -5983,6 +6153,9 @@
  "149746": {
   "N": "Seigneur aqueux"
  },
+ "1499": {
+  "N": "Magistrat Sevren"
+ },
  "14990": {
   "N": "Envoyé des Profanateurs"
  },
@@ -5997,6 +6170,30 @@
   "N": "Sœur Calindra Dawnveil",
   "S": "Vendeur d'âmes purifiées"
  },
+ "1501": {
+  "N": "Zombie décérébré"
+ },
+ "1502": {
+  "N": "Goule déshéritée"
+ },
+ "1504": {
+  "N": "Jeune tisse-nuit"
+ },
+ "1505": {
+  "N": "Araignée tisse-nuit"
+ },
+ "1506": {
+  "N": "Converti écarlate"
+ },
+ "1507": {
+  "N": "Initié écarlate"
+ },
+ "1508": {
+  "N": "Jeune charognard"
+ },
+ "1509": {
+  "N": "Charognard pouilleux"
+ },
  "1510": {
   "N": "Prêtre écarlate"
  },
@@ -6006,6 +6203,9 @@
  "15105": {
   "N": "Émissaire chanteguerre"
  },
+ "1512": {
+  "N": "Chauve-souris de la pénombre"
+ },
  "151270": {
   "N": "Samuel Hawke",
   "S": "Vétéran de la Ligue d'Arathor"
@@ -6014,20 +6214,69 @@
   "N": "Gaelden Hammersmith",
   "S": "Vétéran Foudrepique"
  },
+ "1513": {
+  "N": "Chauve-souris de la pénombre galeuse"
+ },
+ "1515": {
+  "N": "Exécuteur Zygand"
+ },
+ "1518": {
+  "N": "Apothicaire Johaan",
+  "S": "Société royale des apothicaires"
+ },
+ "1519": {
+  "N": "Nécrogarde Simmer"
+ },
+ "15196": {
+  "N": "Poigne-de-mort"
+ },
+ "1520": {
+  "N": "Soldat Cliquethorax"
+ },
+ "1522": {
+  "N": "Ossomancien sombrœil"
+ },
+ "1523": {
+  "N": "Soldat squelette"
+ },
  "15241": {
   "N": "Garde chevaucheur de griffon"
  },
  "15242": {
   "N": "Garde chevaucheur de chauves-souris"
  },
+ "1525": {
+  "N": "Mort pourrissant"
+ },
+ "1526": {
+  "N": "Cadavre décomposé"
+ },
+ "15263": {
+  "N": "Le prophète Skeram"
+ },
  "15273": {
   "N": "Âme en peine arcanique"
+ },
+ "15275": {
+  "N": "Empereur Vek’nilash"
+ },
+ "1529": {
+  "N": "Horreur sanguinolente"
  },
  "15298": {
   "N": "Ame en peine arcanique contaminée"
  },
+ "1530": {
+  "N": "Ancêtre pourrissant"
+ },
  "15301": {
   "N": "Estafette Alarion"
+ },
+ "1531": {
+  "N": "Ame égarée"
+ },
+ "1532": {
+  "N": "Esprit vagabond"
  },
  "1532172": {
   "N": "Terrance Denman",
@@ -6036,6 +6285,18 @@
  "1532173": {
   "N": "Terrance Denman",
   "S": "Vendeur d'anneaux"
+ },
+ "1533": {
+  "N": "Esprit tourmenté"
+ },
+ "15339": {
+  "N": "Ossirian l'Intouché"
+ },
+ "1534": {
+  "N": "Ancêtre gémissante"
+ },
+ "15341": {
+  "N": "Général Rajaxx"
  },
  "153487": {
   "N": "Sac à dos - Ailes démoniaques infusées"
@@ -6055,8 +6316,23 @@
  "153497": {
   "N": "Sac à dos - Paresseux Marron Custom 2"
  },
+ "1535": {
+  "N": "Guerrier écarlate"
+ },
+ "1536": {
+  "N": "Missionnaire écarlate"
+ },
  "15367": {
   "N": "Felendren le Banni"
+ },
+ "15369": {
+  "N": "Ayamiss le Chasseur"
+ },
+ "1537": {
+  "N": "Zélote écarlate"
+ },
+ "15370": {
+  "N": "Buru Grandgosier"
  },
  "15397": {
   "N": "Marniel Luminambre",
@@ -6107,12 +6383,48 @@
  "15420": {
   "N": "Prospecteur Garde-enclume"
  },
+ "1543": {
+  "N": "Bondisseur Aileron noir"
+ },
  "15433": {
   "N": "Auberge Delaniel",
   "S": "Aubergiste"
  },
+ "1544": {
+  "N": "Oracle mineur Aileron noir"
+ },
+ "1545": {
+  "N": "Marche-boue Aileron noir"
+ },
+ "1547": {
+  "N": "Sombredogue décrépit"
+ },
  "15476": {
   "N": "Scorpide"
+ },
+ "1548": {
+  "N": "Sombredogue maudit"
+ },
+ "15509": {
+  "N": "Princesse Huhuran"
+ },
+ "15510": {
+  "N": "Fankriss l'Inflexible"
+ },
+ "15511": {
+  "N": "Seigneur Kri"
+ },
+ "15516": {
+  "N": "Garde de guerre Sartura"
+ },
+ "1553": {
+  "N": "Grande chauve-souris de la pénombre"
+ },
+ "1554": {
+  "N": "Chauve-souris de la pénombre vampirique"
+ },
+ "1559": {
+  "N": "Roi Mukla"
  },
  "15635": {
   "N": "Sylvenier des Chants éternels"
@@ -6159,6 +6471,27 @@
  "15658": {
   "N": "Maraudeur moignon-pourri"
  },
+ "1568": {
+  "N": "Fossoyeur Mordo"
+ },
+ "15687": {
+  "S": "Régisseur de la tour"
+ },
+ "15688": {
+  "N": "Terestian Malsabot"
+ },
+ "15689": {
+  "N": "Dédain-du-Néant"
+ },
+ "1569": {
+  "N": "Prêtre des ombres Sarvis"
+ },
+ "15691": {
+  "N": "Le conservateur"
+ },
+ "1570": {
+  "N": "Exécuteur Arren"
+ },
  "157000": {
   "N": "Garde Jacob"
  },
@@ -6177,6 +6510,9 @@
  },
  "15924": {
   "N": "Apprentie Loralthalis"
+ },
+ "15936": {
+  "N": "Heigan l'Impur"
  },
  "15938": {
   "N": "Forestier des Chants éternels"
@@ -6205,6 +6541,12 @@
  "15951": {
   "N": "Magistère Ternesoir"
  },
+ "15953": {
+  "N": "Grande veuve Faerlina"
+ },
+ "15954": {
+  "N": "Noth le Porte-peste"
+ },
  "15958": {
   "N": "Gharsul l'Impitoyable"
  },
@@ -6229,20 +6571,41 @@
  "15971": {
   "N": "Apprentis de Lune-d'argent"
  },
+ "15989": {
+  "N": "Saphiron"
+ },
  "160000": {
   "N": "Fleur sauvage"
  },
  "160001": {
   "N": "Générateur de fleurs Blooming Shot"
  },
+ "16011": {
+  "N": "Horreb"
+ },
+ "16028": {
+  "N": "Le Recousu"
+ },
+ "16060": {
+  "N": "Gothik le Moissonneur"
+ },
+ "16061": {
+  "N": "Instructeur Razuvious"
+ },
  "16068": {
   "N": "Larver"
+ },
+ "16096": {
+  "N": "Cogneur de Gentepression"
  },
  "16144": {
   "N": "Seigneur Saltheril"
  },
  "16147": {
   "N": "Elisara Heurtesoleil"
+ },
+ "16152": {
+  "N": "Attumen le Veneur"
  },
  "16160": {
   "N": "Magistrice Eredania",
@@ -6785,6 +7148,9 @@
  "16224": {
   "N": "Rathis Tombal",
   "S": "Fournitures d'artisanat"
+ },
+ "16227": {
+  "S": "Maître de vol"
  },
  "16231": {
   "N": "Dame Auriférias"
@@ -9326,6 +9692,9 @@
  "164569": {
   "N": "Poulet"
  },
+ "16457": {
+  "N": "Damoiselle de vertu"
+ },
  "164571": {
   "N": "Lapin Scadeald"
  },
@@ -9671,6 +10040,12 @@
  "165": {
   "N": "Déclencheur de combat"
  },
+ "1652": {
+  "N": "Nécrogarde Burgess"
+ },
+ "16524": {
+  "N": "Ombre d'Aran"
+ },
  "16528": {
   "N": "Approvisionneur Vredigar"
  },
@@ -9811,6 +10186,9 @@
  "16579": {
   "N": "Sentinelle de Guet de l'épervier"
  },
+ "1658": {
+  "N": "Capitaine Dargol"
+ },
  "16580": {
   "N": "Grunt de Thrallmar"
  },
@@ -9865,6 +10243,9 @@
   "N": "Aubergiste Vélandra",
   "S": "Aubergiste"
  },
+ "1662": {
+  "N": "Capitaine Perrine"
+ },
  "16655": {
   "N": "Harène Marche-sur-la-Plaine",
   "S": "Maître des Druides"
@@ -9875,6 +10256,12 @@
  },
  "16701": {
   "N": "Esprit d'été"
+ },
+ "1674": {
+  "N": "Gnoll poil-putride"
+ },
+ "1675": {
+  "N": "Bâtard poil-putride"
  },
  "16775": {
   "N": "Esprit du Généralissime Mograine",
@@ -9929,6 +10316,9 @@
  },
  "16879": {
   "N": "Sanglier infernal affamé"
+ },
+ "1688": {
+  "N": "Matriarche tisse-nuit"
  },
  "169026": {
   "N": "Objet\\ObjectComponents\\Ammo\\arrow_bow_1h_forsaken_d_01_blue.mdx"
@@ -10073,6 +10463,9 @@
   "N": "Artificier Daelo",
   "S": "Maître des ingénieurs"
  },
+ "17225": {
+  "N": "Plaie-de-nuit"
+ },
  "17228": {
   "N": "Artificier Draeneï"
  },
@@ -10101,11 +10494,47 @@
  "17343": {
   "N": "Flagellant des chardons"
  },
+ "1735": {
+  "N": "Nécrogarde Abraham"
+ },
  "173527": {
   "N": "Tigre mécanique"
  },
+ "1736": {
+  "N": "Nécrogarde Randolph"
+ },
  "17360": {
   "N": "Totem d'Akida"
+ },
+ "1737": {
+  "N": "Nécrogarde Oliver"
+ },
+ "1738": {
+  "N": "Nécrogarde Terrence"
+ },
+ "1739": {
+  "N": "Nécrogarde Phillip"
+ },
+ "1740": {
+  "N": "Nécrogarde Saltain"
+ },
+ "1741": {
+  "N": "Nécrogarde Bartrand"
+ },
+ "1742": {
+  "N": "Nécrogarde Bartholomew"
+ },
+ "1743": {
+  "N": "Nécrogarde Lawrence"
+ },
+ "1744": {
+  "N": "Nécrogarde Morth"
+ },
+ "1745": {
+  "N": "Nécrogarde Morris"
+ },
+ "1746": {
+  "N": "Nécrogarde Cyrus"
  },
  "17493": {
   "N": "Garde de pierre Stok'ton"
@@ -10113,6 +10542,9 @@
  "175121": {
   "N": "Démon gourmand",
   "S": "La Croisade ardente"
+ },
+ "1753": {
+  "N": "Oeil-de-ver"
  },
  "17585": {
   "N": "Intendant Urgronn",
@@ -10179,6 +10611,9 @@
  },
  "17731": {
   "N": "Raie des tourbières"
+ },
+ "17767": {
+  "N": "Rage Froidhiver"
  },
  "177670": {
   "N": "Invocateur de crypte",
@@ -10283,6 +10718,9 @@
  },
  "180436": {
   "N": "PNJ_VISAGE_SOGGOTH"
+ },
+ "1805": {
+  "N": "Golem de chair"
  },
  "180513": {
   "N": "Proxy du propriétaire des péchés",
@@ -10399,6 +10837,9 @@
  },
  "18527": {
   "N": "Adjurateur Tyren"
+ },
+ "1853": {
+  "N": "Sombre Maître Gandling"
  },
  "18560": {
   "N": "Cible du lapin de Justin"
@@ -10542,6 +10983,9 @@
  "18799": {
   "N": "Citoyen de Lune-d'argent"
  },
+ "18805": {
+  "N": "Grande astromancienne Solarian"
+ },
  "18818": {
   "N": "Engin de siège invisible de la Horde - est",
   "S": "Rien à voir ici"
@@ -10557,6 +11001,10 @@
  },
  "188302": {
   "N": "Ouvrier écarlate"
+ },
+ "18831": {
+  "N": "Haut Roi Maulgar",
+  "S": "Seigneur des ogres"
  },
  "18848": {
   "N": "Instructrice malveillante"
@@ -10577,6 +11025,9 @@
  },
  "18893": {
   "N": "Maître-espionne Mehlisah Hautecouronne"
+ },
+ "1890": {
+  "N": "Squelette cliquethorax"
  },
  "18927": {
   "N": "Roturier humain"
@@ -10663,6 +11114,9 @@
  "19008": {
   "N": "Engin de siège invisible de l'Alliance - ouest",
   "S": "Rien à voir ici"
+ },
+ "19044": {
+  "N": "Gruul le Tue-dragon"
  },
  "19075": {
   "N": "Paria de Skettis"
@@ -10850,6 +11304,9 @@
  "19304": {
   "N": "Cœur-Noir le Séditieux"
  },
+ "1931": {
+  "N": "Zélote écarlate capturé"
+ },
  "19315": {
   "N": "Officier de ravitaillement Isabel",
   "S": "Fournitures générales & réparations"
@@ -10857,11 +11314,20 @@
  "19324": {
   "N": "Griffon bombardier cuirassé"
  },
+ "1934": {
+  "N": "Fermier de Tirisfal"
+ },
+ "1935": {
+  "N": "Journalier de Tirisfal"
+ },
  "19358": {
   "N": "Transporteur de la Légion : Alpha (Alliance)"
  },
  "19359": {
   "N": "Transporteur de la Légion : Bêta (Alliance)"
+ },
+ "1936": {
+  "N": "Fermier de Solliden"
  },
  "19397": {
   "N": "Surveillant mo'arg"
@@ -10883,6 +11349,9 @@
  },
  "194058": {
   "N": "Prêtresse épuisée"
+ },
+ "1941": {
+  "N": "Profanateur poil-putride"
  },
  "19410": {
   "N": "Néophyte de la Main brisée"
@@ -10928,6 +11397,16 @@
  },
  "195": {
   "N": "Amberglow non lié"
+ },
+ "19514": {
+  "S": "Dieu phénix"
+ },
+ "19516": {
+  "N": "Saccageur du Vide"
+ },
+ "19622": {
+  "N": "Kael'thas Haut-Soleil",
+  "S": "Seigneur des elfes de sang"
  },
  "19624": {
   "N": "Soldat d'infanterie de Hurlevent blessé"
@@ -11525,6 +12004,12 @@
  "21124": {
   "N": "Gangrelige Crocs-lames"
  },
+ "2113": {
+  "S": "Marchand d'armures en étoffe & en cuir"
+ },
+ "2114": {
+  "S": "Maître des herboristes"
+ },
  "211497": {
   "N": "Étherax"
  },
@@ -11533,6 +12018,9 @@
  },
  "211499": {
   "N": "Azrak"
+ },
+ "2115": {
+  "S": "Fournitures générales"
  },
  "211500": {
   "N": "Vexthorn"
@@ -11544,11 +12032,21 @@
  "21159": {
   "N": "Rayon de confinement"
  },
+ "2116": {
+  "N": "Forgeron Rand",
+  "S": "Apprenti armurier"
+ },
  "21166": {
   "N": "Seigneur de l'effroi illidari"
  },
+ "2117": {
+  "S": "Apprenti fabricant d'armes"
+ },
  "21175": {
   "N": "Magistère Faucon-de-sang"
+ },
+ "2118": {
+  "S": "Fournitures d'artisanat"
  },
  "211981": {
   "N": "Flammegor (2)",
@@ -11561,6 +12059,26 @@
  "212017": {
   "N": "Seigneur des couvées Lanistaire (2)",
   "S": "BWL"
+ },
+ "21212": {
+  "N": "Dame Vashj",
+  "S": "Matrone de Glissecroc"
+ },
+ "21213": {
+  "N": "Morogrim Marcheur-des-flots"
+ },
+ "21214": {
+  "N": "Seigneur des fonds Karathress"
+ },
+ "21215": {
+  "N": "Leotheras l'Aveugle"
+ },
+ "21216": {
+  "N": "Hydross l'Instable",
+  "S": "Duc des courants"
+ },
+ "21217": {
+  "N": "Le Rôdeur d'En bas"
  },
  "212268": {
   "N": "Ombre de Lucifron (2)",
@@ -11627,8 +12145,18 @@
  "21309": {
   "N": "Maîtresse de la douleur Gabrisa"
  },
+ "2132": {
+  "S": "Maître des alchimistes"
+ },
+ "2134": {
+  "N": "Mme Winters",
+  "S": "Fournitures générales"
+ },
  "213425": {
   "N": "Petit cavalier du vent"
+ },
+ "2135": {
+  "S": "Apprenti armurier"
  },
  "213500": {
   "N": "Morghast",
@@ -11637,11 +12165,17 @@
  "213517": {
   "N": "Rieck Cigal"
  },
+ "2136": {
+  "S": "Apprenti fabricant d'armes"
+ },
  "21365": {
   "N": "Grue flottante"
  },
  "21368": {
   "N": "Pilleur éthérien"
+ },
+ "2137": {
+  "S": "Marchande d'armures en cuir"
  },
  "21370": {
   "N": "Néantomancien éthérien"
@@ -12060,8 +12594,17 @@
  "220871": {
   "N": "Norme de gestion des sorts"
  },
+ "2209": {
+  "N": "Nécrogarde Gavin"
+ },
+ "2210": {
+  "N": "Nécrogarde Royann"
+ },
  "22105": {
   "N": "Sabot-fourchu décrépit"
+ },
+ "2211": {
+  "N": "Montagnard capturé"
  },
  "221214": {
   "N": "Fathom-Lord Karathress (2)",
@@ -12257,6 +12800,9 @@
  "22833": {
   "N": "Déclencheur Porte des ténèbres de la Semaine des enfants d'Outreterre"
  },
+ "22841": {
+  "N": "Ombre d'Akama"
+ },
  "228421": {
   "N": "Carquois de feuilles de miel de traqueur des forêts"
  },
@@ -12275,6 +12821,9 @@
  "228427": {
   "N": "Carquois de traqueur des forêts des brumes"
  },
+ "22856": {
+  "N": "Reliquaire des Perdus"
+ },
  "22859": {
   "N": "Invocateur Sabot-d'ombre",
   "S": "Serviteur d'Illidan"
@@ -12285,11 +12834,30 @@
  "22863": {
   "N": "Magistère Aguerri"
  },
+ "22871": {
+  "N": "Teron Fielsang"
+ },
+ "22887": {
+  "N": "Grand seigneur de guerre Naj'entus"
+ },
+ "22917": {
+  "N": "Illidan Hurlorage",
+  "S": "Le Traître"
+ },
  "229261": {
   "N": "Mère Shahraz (2)"
  },
  "22934": {
   "N": "Détecteur de combat du Temple noir"
+ },
+ "22947": {
+  "N": "Mère Shahraz"
+ },
+ "22948": {
+  "N": "Gurtogg Fièvresang"
+ },
+ "22949": {
+  "N": "Gathios le Briseur"
  },
  "22987": {
   "N": "Raie du Néant de la Garde-ciel"
@@ -12323,9 +12891,18 @@
   "N": "Factice de flamme",
   "S": "Déclencheur par Teri"
  },
+ "2307": {
+  "N": "Fossoyeur Caice"
+ },
  "23128": {
   "N": "Maître Pyréanor",
   "S": "Maître des paladins"
+ },
+ "2314": {
+  "N": "Sahvan Ombresang"
+ },
+ "2315": {
+  "N": "Maquell Boidébène"
  },
  "23192": {
   "N": "Braise d'Azzinoth"
@@ -12350,6 +12927,18 @@
  },
  "23559": {
   "N": "Budd"
+ },
+ "23574": {
+  "S": "Avatar d'Aigle"
+ },
+ "23576": {
+  "S": "Avatar d'Ours"
+ },
+ "23577": {
+  "S": "Avatar de Lynx"
+ },
+ "23578": {
+  "S": "Avatar de Faucon-dragon"
  },
  "23584": {
   "N": "Ours de guerre Amani"
@@ -12411,8 +13000,14 @@
  "23837": {
   "N": "Bunny à usage général ELM"
  },
+ "23863": {
+  "S": "L’Invincible"
+ },
  "2404861": {
   "N": "Efflorescence"
+ },
+ "24239": {
+  "N": "Seigneur des maléfices Malacrass"
  },
  "245954": {
   "N": "Collecteur de sang Rochenoire"
@@ -12423,6 +13018,9 @@
  "24851": {
   "N": "Kiz Jaugebobine",
   "S": "Maître de vol"
+ },
+ "24892": {
+  "N": "Sathrovarr le Corrupteur"
  },
  "24925": {
   "N": "Patron du portail : Violette (3h00)"
@@ -12438,6 +13036,9 @@
  },
  "250305": {
   "N": "Faux spectrale"
+ },
+ "25038": {
+  "N": "Gangrebrume"
  },
  "25095": {
   "N": "Matelot Bidulastique",
@@ -12483,6 +13084,9 @@
  "25155": {
   "N": "Clerc du Soleil brisé"
  },
+ "25165": {
+  "N": "Dame Sacrocingle"
+ },
  "25167": {
   "N": "Général Tiras'alan"
  },
@@ -12494,6 +13098,9 @@
  },
  "25305": {
   "N": "Flammes dansantes"
+ },
+ "25315": {
+  "S": "Le Trompeur"
  },
  "2538": {
   "N": "Narillasanz"
@@ -15345,6 +15952,10 @@
  "25962": {
   "N": "Cracheur de feu"
  },
+ "2597": {
+  "N": "Seigneur Lépervier",
+  "S": "Chef du Syndicat"
+ },
  "25975": {
   "N": "Maître cracheur de feu"
  },
@@ -15415,6 +16026,12 @@
  },
  "273761": {
   "N": "Pochette en parchemin opulente de scribe"
+ },
+ "2745": {
+  "N": "Ambassadeur Infernus"
+ },
+ "2748": {
+  "S": "Ancien gardien des pierres"
  },
  "2764516": {
   "N": "Lanya Hautegarde"
@@ -15512,6 +16129,9 @@
   "N": "Malygos le Tisserand de Sorts",
   "S": "Aspect de la magie"
  },
+ "28860": {
+  "S": "Le gardien d'Onyx"
+ },
  "289172": {
   "N": "Boule de mort sans classe"
  },
@@ -15530,6 +16150,9 @@
  },
  "2897": {
   "N": "Élémentaire de roche créative"
+ },
+ "29089": {
+  "N": "Mini Tyraël"
  },
  "292013": {
   "N": "Gahz'rankas Tête Gauche (2)",
@@ -15578,6 +16201,9 @@
  },
  "297160": {
   "N": "Assistant mécanique de Gazz Stripbolt"
+ },
+ "29888": {
+  "N": "Fleur d'herboristerie"
  },
  "299": {
   "N": "Jeune loup"
@@ -15979,6 +16605,9 @@
  "304277": {
   "N": "Incarnation : traqueur lunaire"
  },
+ "3051": {
+  "N": "Superviseur Vibrouage"
+ },
  "305293": {
   "N": "Bannière des héros"
  },
@@ -16110,9 +16739,18 @@
  "309553": {
   "N": "Parchemin démoniaque : misérable loyal"
  },
+ "3098": {
+  "N": "Sanglier tacheté"
+ },
+ "3099": {
+  "N": "Sanglier tacheté redoutable"
+ },
  "30997": {
   "N": "Chrome INUTILISÉ",
   "S": "Abattage"
+ },
+ "3100": {
+  "N": "Ancien sanglier tacheté"
  },
  "31007": {
   "N": "Œil de Moragg"
@@ -16125,6 +16763,9 @@
  },
  "31009": {
   "N": "Œil de Moragg"
+ },
+ "3101": {
+  "N": "Vil quasit"
  },
  "31011": {
   "N": "Violet Hold Boss 1",
@@ -16141,13 +16782,25 @@
   "N": "Seigneur Victor Nefarius (3)",
   "S": "BWLS"
  },
+ "3102": {
+  "N": "Traqueur gangrené"
+ },
+ "3103": {
+  "N": "Claqueur makrura"
+ },
  "310339": {
   "N": "Gyth (3)",
   "S": "Déchirez la monture de Main-Noire"
  },
+ "3104": {
+  "N": "Coquillard makrura"
+ },
  "31055": {
   "N": "Capitaine Galvangar (2)",
   "S": "Capitaine loup de givre"
+ },
+ "3106": {
+  "N": "Clampant de l'écume"
  },
  "310603": {
   "N": "Élémentaire d'eau électrifié"
@@ -16155,13 +16808,43 @@
  "310659": {
   "N": "Esprit de Bwonsamdi"
  },
+ "3107": {
+  "N": "Clampant de l'écume adulte"
+ },
+ "3110": {
+  "N": "Crocilisque Gueule-d'effroi"
+ },
+ "3111": {
+  "N": "Huran tranchecrin"
+ },
+ "3112": {
+  "N": "Eclaireur tranchecrin"
+ },
+ "31125": {
+  "N": "Archavon le Gardien des pierres"
+ },
+ "3113": {
+  "N": "Lève-poussière tranchecrin"
+ },
  "311374": {
   "N": "Frénésie des dents en crochet (3)",
   "S": "ZG"
  },
+ "3114": {
+  "N": "Garde de guerre tranchecrin"
+ },
+ "3115": {
+  "N": "Harpie Terrevent"
+ },
  "311583": {
   "N": "Néfarian (3)",
   "S": "BWL"
+ },
+ "3116": {
+  "N": "Pilleuse Terrevent"
+ },
+ "3119": {
+  "N": "Manœuvre kolkar"
  },
  "311981": {
   "N": "Flammegor (3)",
@@ -16171,16 +16854,28 @@
   "N": "Gueule de Feu (3)",
   "S": "BWL"
  },
+ "3120": {
+  "N": "Estafette kolkar"
+ },
  "312017": {
   "N": "Seigneur des couvées Lanistaire (3)",
   "S": "BWL"
  },
+ "3121": {
+  "N": "Tigre de Durotar"
+ },
  "31214": {
   "N": "Portail du Crépuscule"
+ },
+ "3122": {
+  "N": "Fouette-queue griffesang"
  },
  "312268": {
   "N": "Ombre de Lucifron (3)",
   "S": "MC"
+ },
+ "3123": {
+  "N": "Tranche-gueule griffesang"
  },
  "312319": {
   "N": "U'rilla"
@@ -16223,6 +16918,9 @@
  },
  "312399": {
   "N": "Hirayn, jardinier"
+ },
+ "3124": {
+  "N": "Scorpide ouvrier"
  },
  "312400": {
   "N": "Warren le Mage de l'Ombre"
@@ -16329,6 +17027,9 @@
   "N": "Ollie Witherfield",
   "S": "Forgeron d'armures"
  },
+ "3125": {
+  "N": "Scorpide cliquetant"
+ },
  "312501": {
   "N": "Timothy Hedgemore"
  },
@@ -16399,8 +17100,23 @@
   "N": "Xarthos",
   "S": "BWL"
  },
+ "3126": {
+  "N": "Scorpide blindé"
+ },
+ "3127": {
+  "N": "Scorpide queue-venin"
+ },
  "312705": {
   "N": "Garde de la mort de Tarren Mill"
+ },
+ "3128": {
+  "N": "Marin de Kul Tiras"
+ },
+ "3129": {
+  "N": "Soldat de marine de Kul Tiras"
+ },
+ "3130": {
+  "N": "Lézard-tonnerre"
  },
  "313020": {
   "N": "Vaelastrasz le Corrompu (3)",
@@ -16418,13 +17134,31 @@
   "N": "Disque prismatique de l'archimage",
   "S": "Ésotérique"
  },
+ "3131": {
+  "N": "Foudroyant"
+ },
+ "3140": {
+  "N": "Lar Fouinebroche"
+ },
  "314020": {
   "N": "Chromaggus (3)",
   "S": "BWL"
  },
+ "3141": {
+  "N": "Ancien makrura"
+ },
+ "3142": {
+  "N": "Orgnil Marque-l'âme"
+ },
+ "3145": {
+  "N": "Zureetha Mireloin"
+ },
  "314601": {
   "N": "Roc d'ébène (3)",
   "S": "BWL"
+ },
+ "3147": {
+  "N": "Furl Morguefront"
  },
  "314834": {
   "N": "Hakkar (3)",
@@ -16472,6 +17206,9 @@
  "314873": {
   "N": "Maître de caravane Durotar"
  },
+ "3150": {
+  "S": "Maître des zeppelins de la vallée de Strangleronce"
+ },
  "315162": {
   "N": "Inquisiteur fou écarlate"
  },
@@ -16489,9 +17226,19 @@
   "N": "Malgré le Néant (3)",
   "S": "Karajan"
  },
+ "3158": {
+  "S": "Fournitures générales"
+ },
+ "3159": {
+  "N": "Kzan Trancheronce",
+  "S": "Fabricant d'armes"
+ },
  "315954": {
   "N": "Noth le Porte-peste (3)",
   "S": "Naxx60"
+ },
+ "3160": {
+  "S": "Marchand d'armures en étoffe & en cuir"
  },
  "316011": {
   "N": "Répugnant (3)",
@@ -16505,16 +17252,34 @@
   "N": "Dame Blaumeux (3)",
   "S": "Naxx60"
  },
+ "3161": {
+  "S": "Armures & boucliers"
+ },
  "316151": {
   "N": "Minuit (3)",
   "S": "Karajan"
  },
+ "3163": {
+  "S": "Fabricant d'armes"
+ },
+ "3164": {
+  "S": "Fournitures générales"
+ },
  "316430": {
   "N": "Objet\\ObjectComponents\\Ammo\\arrow_bow_1h_sylvanasshadowlands_d_01.mdx"
+ },
+ "3165": {
+  "S": "Fabricant d'arcs"
  },
  "316524": {
   "N": "Ombre d'Aran (3)",
   "S": "Karajan"
+ },
+ "3166": {
+  "S": "Marchand d'armures en étoffe & en cuir"
+ },
+ "3167": {
+  "S": "Armures & boucliers"
  },
  "316701": {
   "N": "UGS",
@@ -16527,6 +17292,9 @@
  "316776": {
   "N": "Esprit de Dame Blaumeux (3)",
   "S": "Naxx60"
+ },
+ "3168": {
+  "S": "Fournitures d'artisanat"
  },
  "316816": {
   "N": "Écho de Medivh (3)",
@@ -16555,6 +17323,12 @@
  "317377": {
   "N": "Keli'dan le Briseur(3)",
   "S": "petit ami"
+ },
+ "3174": {
+  "S": "Maître des forgerons"
+ },
+ "3175": {
+  "S": "Maître des mineurs"
  },
  "317536": {
   "N": "Nazan (3)",
@@ -16600,9 +17374,27 @@
   "N": "Ghaz'an (3)",
   "S": "Sous-tourbière"
  },
+ "3183": {
+  "N": "Yarrog Plaie-d'ombre"
+ },
  "318373": {
   "N": "Exarque Maladaar (3)",
   "S": "Crypte"
+ },
+ "3184": {
+  "S": "Maître des alchimistes"
+ },
+ "3185": {
+  "S": "Maître des herboristes"
+ },
+ "3186": {
+  "S": "Fournitures générales"
+ },
+ "3187": {
+  "S": "Fournitures d'artisanat"
+ },
+ "3188": {
+  "N": "Maître Gadrin"
  },
  "318805": {
   "N": "Grand Astromancien Solarien (3)",
@@ -16618,13 +17410,22 @@
  "319022": {
   "N": "Serpent-nuage touché par Sha"
  },
+ "3191": {
+  "N": "Cuisinier Torka"
+ },
  "319221": {
   "N": "Sepethrea, ancien néant (3)",
   "S": "Mécha"
  },
+ "3194": {
+  "N": "Vel'rin Croc"
+ },
  "319514": {
   "N": "Al'ar (3)",
   "S": "savoirs traditionnels"
+ },
+ "3197": {
+  "N": "Fanatique de la Lame ardente"
  },
  "319736": {
   "N": "Objet\\ObjectComponents\\Ammo\\ArrowIceFlight_01.mdx",
@@ -16675,6 +17476,18 @@
  "319758": {
   "N": "Objet\\ObjectComponents\\Ammo\\custom_arrow_dryad_quiver_turquoise.mdx"
  },
+ "3198": {
+  "N": "Apprenti de la Lame ardente"
+ },
+ "3203": {
+  "N": "Féplouf Sombregriffe"
+ },
+ "3206": {
+  "N": "Troll vaudou"
+ },
+ "3207": {
+  "N": "Troll maléficié"
+ },
  "320886": {
   "N": "Soccothrates Scryer-courroux (3)",
   "S": "Arca"
@@ -16721,6 +17534,12 @@
  },
  "322523": {
   "N": "Métamorphose de la terreur nocturne"
+ },
+ "3226": {
+  "N": "Scorpide corrompu"
+ },
+ "3227": {
+  "N": "Tranche-gueule Griffesang corrompu"
  },
  "322841": {
   "N": "Ombre d'Akama (3)",
@@ -16830,11 +17649,23 @@
  "328011": {
   "N": "Lieur de pierre Aile de Sorcière"
  },
+ "32871": {
+  "N": "Algalon l'Observateur"
+ },
+ "3289": {
+  "N": "Esprit de Minshina"
+ },
+ "3292": {
+  "N": "Brasseur Drohn"
+ },
  "329261": {
   "N": "Mère Shahraz (3)"
  },
  "32969": {
   "N": "Rôdeur des ruines embrassé par le soleil"
+ },
+ "3297": {
+  "N": "Protecteur de Sen'jin"
  },
  "32970": {
   "N": "Rôdeur des ruines gangrené et corrompu"
@@ -16843,9 +17674,36 @@
   "N": "Le'bumba",
   "S": "Produits exotiques"
  },
+ "3300": {
+  "N": "Aspic"
+ },
+ "3304": {
+  "N": "Maître Vornal"
+ },
+ "33113": {
+  "N": "Léviathan des flammes"
+ },
+ "33118": {
+  "N": "Ignis le maître de la Fournaise"
+ },
+ "33186": {
+  "N": "Tranchécaille"
+ },
  "332200": {
   "N": "Laya Sabot-Bruit",
   "S": "Forgeron d'armes"
+ },
+ "33271": {
+  "N": "Général Vezax"
+ },
+ "33293": {
+  "N": "Déconstructeur XT-002"
+ },
+ "3336": {
+  "N": "Takrin Cherchevoie"
+ },
+ "334": {
+  "S": "Seigneur de guerre du Clan Rochenoire"
  },
  "3344": {
   "N": "Kardris Cherche-rêve",
@@ -16874,6 +17732,15 @@
  "339422": {
   "N": "Vik \"En colère\" Smalls",
   "S": "Progression PvP 2 (arène)"
+ },
+ "33993": {
+  "N": "Emalon le Guetteur d'orage"
+ },
+ "33996": {
+  "S": "Vendeur de céréales & fourrage"
+ },
+ "34238": {
+  "N": "Cheval squelette noir"
  },
  "342502": {
   "N": "Apprenti cuisinier"
@@ -16923,8 +17790,18 @@
  "34403": {
   "N": "Frange"
  },
+ "3442": {
+  "N": "Krachevalve",
+  "S": "Syndicat des artisans"
+ },
+ "34496": {
+  "N": "Eydis Plaie-sombre"
+ },
  "3450": {
   "N": "Perroquet apprivoisé"
+ },
+ "3453": {
+  "N": "Maître des quais Tournoupette"
  },
  "34651": {
   "N": "Scarabée royal doré"
@@ -16934,6 +17811,9 @@
  },
  "34656": {
   "N": "Scarabée saphir orné de bijoux"
+ },
+ "3471": {
+  "N": "Bricoleur Brokarde"
  },
  "347300": {
   "N": "Lézard-tonnerre apprivoisé"
@@ -16981,9 +17861,22 @@
  "347777": {
   "N": "Proto-Drake du gladiateur notoire"
  },
+ "34780": {
+  "N": "Seigneur Jaraxxus"
+ },
+ "34797": {
+  "N": "Glace-hurlante"
+ },
  "348800": {
   "N": "Grag chasseur",
   "S": "Forgeron d'armes"
+ },
+ "3496": {
+  "N": "Plipluche",
+  "S": "Banquier"
+ },
+ "3497": {
+  "S": "Pêcheur"
  },
  "350001": {
   "N": "Zulian Esprit Tigre"
@@ -16997,8 +17890,14 @@
  "350004": {
   "N": "Totem des marées descendantes"
  },
+ "35013": {
+  "N": "Koralon le Veilleur des flammes"
+ },
  "350192": {
   "N": "Anomalie arcanique"
+ },
+ "3502": {
+  "N": "Cogneur de Cabestan"
  },
  "35093": {
   "N": "Coursier du vent Jahubo",
@@ -17008,6 +17907,9 @@
   "N": "Bana Crin-Sauvage",
   "S": "Gardienne des coursiers du vent"
  },
+ "35169": {
+  "N": "Cheval de guerre squelette ocre"
+ },
  "352170": {
   "N": "Trotteur des ruines d'Ombre"
  },
@@ -17016,6 +17918,12 @@
  },
  "352196": {
   "N": "Trotteur des ruines céruléen"
+ },
+ "3522": {
+  "S": "Apprentie couturier"
+ },
+ "3523": {
+  "S": "Maître des tailleurs"
  },
  "352666": {
   "N": "Beryl Chevalier des ruines"
@@ -17279,15 +18187,30 @@
  "354645": {
   "N": "Chimère morte"
  },
+ "3547": {
+  "S": "Champignonnier"
+ },
  "354758": {
   "N": "Bébé Stegodon terrifié"
+ },
+ "3548": {
+  "S": "Alchimie & herboristerie"
  },
  "354800": {
   "N": "Frey VFX",
   "S": "146815"
  },
+ "3549": {
+  "S": "Maître des travailleurs du cuir"
+ },
+ "3550": {
+  "S": "Fournitures de pêche"
+ },
  "35521": {
   "N": "Mémoire de Chromaggus (1)"
+ },
+ "356": {
+  "N": "Loup noir"
  },
  "357": {
   "N": "Gardien du flux océanique"
@@ -17649,8 +18572,35 @@
  "362": {
   "N": "Chat endormi"
  },
+ "3620": {
+  "S": "Maître des familiers"
+ },
+ "3654": {
+  "N": "Mutanus le Dévoreur"
+ },
+ "3655": {
+  "N": "Magglish le Dingue"
+ },
+ "36597": {
+  "N": "Le roi-liche"
+ },
  "366": {
   "N": "Drogok"
+ },
+ "36612": {
+  "N": "Seigneur Gargamoelle"
+ },
+ "36626": {
+  "N": "Pulentraille"
+ },
+ "36627": {
+  "N": "Trognepus"
+ },
+ "3665": {
+  "N": "Grutier Bigglefuzz"
+ },
+ "36678": {
+  "N": "Professeur Putricide"
  },
  "36680": {
   "N": "Cornes du tourmenteur élevé"
@@ -17673,8 +18623,17 @@
  "367": {
   "N": "Marrlok"
  },
+ "36789": {
+  "N": "Valithria Marcherêve"
+ },
  "368": {
   "N": "Kraggok"
+ },
+ "36853": {
+  "S": "Reine des Couvegivres"
+ },
+ "36855": {
+  "N": "Dame Murmemort"
  },
  "369": {
   "N": "Garrlok"
@@ -18670,6 +19629,9 @@
   "N": "Prêtresse Josetta",
   "S": "Maître des prêtres"
  },
+ "37813": {
+  "N": "Porte-mort Saurcroc"
+ },
  "378831": {
   "N": "Cheval de guerre mort-vivant"
  },
@@ -18787,6 +19749,9 @@
  "379489": {
   "N": "Aile du Vide blindée"
  },
+ "37955": {
+  "N": "Reine de sang Lana'thel"
+ },
  "379995": {
   "N": "[PH] équitationhorsescadeald_grey"
  },
@@ -18805,11 +19770,20 @@
  "38290": {
   "N": "Ensoleillé"
  },
+ "38433": {
+  "N": "Toravon la Sentinelle de glace"
+ },
  "38560": {
   "N": "Martyr écorcheur de mousse"
  },
  "3872": {
   "N": "Capitaine Midwinter"
+ },
+ "3881": {
+  "S": "Boucher"
+ },
+ "3882": {
+  "S": "Boucher"
  },
  "3884": {
   "N": "Jhawna Vent-d'Avoine",
@@ -18881,6 +19855,9 @@
  "392243": {
   "N": "Chien primordial fauve"
  },
+ "3933": {
+  "S": "Boucher"
+ },
  "39450": {
   "N": "Gardien écarlate fatigué"
  },
@@ -18910,8 +19887,15 @@
  "39708": {
   "N": "Appeleur de flammes du crépuscule"
  },
+ "3975": {
+  "N": "Hérode",
+  "S": "Le champion écarlate"
+ },
  "397771": {
   "N": "Manifestation de Sha"
+ },
+ "39863": {
+  "S": "Le destructeur du Crépuscule"
  },
  "399223": {
   "N": "Zipi",
@@ -19733,6 +20717,9 @@
   "N": "Premier repaire mondial de Barbe-de-Bronze à Aile noire (25 joueurs)",
   "S": "Rue Nulf"
  },
+ "4202": {
+  "N": "Gerenzo Siffleclef"
+ },
  "420505": {
   "N": "Héphaïstos",
   "S": "Récompenses de quête rénovées"
@@ -19867,6 +20854,12 @@
  },
  "426827": {
   "N": "Sac à dos - Ailes démoniaques purifiées"
+ },
+ "4271": {
+  "N": "Loup redoutable"
+ },
+ "4275": {
+  "N": "Archimage Arugal"
  },
  "427501": {
   "N": "Shadra",
@@ -20198,6 +21191,9 @@
  },
  "43389": {
   "N": "Seigneur Sakrasis"
+ },
+ "4339": {
+  "N": "Soufresang"
  },
  "43390": {
   "N": "Darbel Montrose"
@@ -20786,7 +21782,7 @@
   "N": "Gutchewer Nekrum"
  },
  "43593": {
-  "N": "Mekgineer Thermaplugg"
+  "N": "Mekgénieur Thermojoncteur"
  },
  "43594": {
   "N": "Ambassadeur Bloodrage"
@@ -21189,6 +22185,9 @@
  },
  "43739": {
   "N": "Eck'alom"
+ },
+ "4374": {
+  "N": "Hydre Strashaz"
  },
  "43740": {
   "N": "Aileron-moldu"
@@ -22060,6 +23059,10 @@
  "44178": {
   "N": "Gardien des portes Main de Fer"
  },
+ "4421": {
+  "N": "Charlga Trancheflanc",
+  "S": "La Mégère"
+ },
  "44214": {
   "N": "Zereketh le Délié"
  },
@@ -22488,6 +23491,9 @@
  },
  "44773": {
   "N": "Sköll"
+ },
+ "448": {
+  "N": "Lardeur"
  },
  "44905": {
   "N": "Ick"
@@ -23200,6 +24206,9 @@
  "454240": {
   "N": "Fleur de rêve rouge"
  },
+ "4543": {
+  "N": "Mage de sang Thalnos"
+ },
  "45442": {
   "N": "Cucurbitus"
  },
@@ -23742,6 +24751,9 @@
  "47042": {
   "N": "Lorna Stonebrand"
  },
+ "4731": {
+  "S": "Marchand de chevaux mort-vivant"
+ },
  "475160": {
   "N": "Focus de la fureur terrestre"
  },
@@ -23814,6 +24826,9 @@
  },
  "4769": {
   "N": "Hufftalon"
+ },
+ "4773": {
+  "S": "Instructrice de monte"
  },
  "47841": {
   "N": "Phénix sombre"
@@ -23925,6 +24940,9 @@
  },
  "48244": {
   "N": "Pack Patrouille Prédateur"
+ },
+ "4829": {
+  "N": "Aku’mai"
  },
  "483933": {
   "N": "Thelsamar Fisher"
@@ -26633,6 +27651,9 @@
  "518366": {
   "N": "Wyverne domestiquée"
  },
+ "5185": {
+  "N": "Requin-marteau"
+ },
  "519906": {
   "N": "Familier félin"
  },
@@ -26647,6 +27668,9 @@
  },
  "519910": {
   "N": "Nouveau-né d'araignée à toile nocturne"
+ },
+ "5202": {
+  "N": "Cible de tir à l’arc"
  },
  "52036": {
   "N": "Boîte à bruit"
@@ -26814,6 +27838,9 @@
  "53985": {
   "N": "Loup chanteguerre"
  },
+ "5401": {
+  "N": "Kazkaz l'Impie"
+ },
  "54036": {
   "N": "Balise de bouclier"
  },
@@ -26856,6 +27883,9 @@
  },
  "54491": {
   "N": "Singe de Sombrelune"
+ },
+ "5470": {
+  "N": "Compresseur déchaîné"
  },
  "54730": {
   "N": "Grell grégaire"
@@ -27035,6 +28065,20 @@
  "5652": {
   "N": "Mannequin d'entraînement"
  },
+ "5688": {
+  "N": "Renée l'aubergiste",
+  "S": "Aubergiste"
+ },
+ "5690": {
+  "S": "Maître des pêcheurs"
+ },
+ "5695": {
+  "N": "Vance Tristefosse",
+  "S": "Maître des enchanteurs"
+ },
+ "5709": {
+  "N": "Ombre d'Eranikus"
+ },
  "57311": {
   "N": "Uthel'nay",
   "S": "Entraîneur de mages"
@@ -27048,8 +28092,22 @@
  "57524": {
   "N": "Livre des artisans pour débutants"
  },
+ "5759": {
+  "N": "Infirmière Neela",
+  "S": "Maître des secouristes"
+ },
+ "5760": {
+  "N": "Seigneur Azrethoc"
+ },
  "578796": {
   "N": "Hippogriffe d'émeraude"
+ },
+ "5824": {
+  "N": "Capitaine Plate-Défense",
+  "S": "Capitaine de la garde"
+ },
+ "5833": {
+  "N": "Margol l'Enragé"
  },
  "58585": {
   "N": "Déino",
@@ -27058,6 +28116,9 @@
  "587000": {
   "N": "Grubnak le voleur de bonnes affaires",
   "S": "Concessionnaire exotique"
+ },
+ "5887": {
+  "N": "Canaga Hucheterre"
  },
  "5890": {
   "N": "Esprit de la Terre des roches rouges"
@@ -27255,6 +28316,24 @@
  },
  "59358": {
   "N": "Lapin de Sombrelune"
+ },
+ "5941": {
+  "S": "Maître des pêcheurs"
+ },
+ "5942": {
+  "S": "Fournitures de pêche"
+ },
+ "5943": {
+  "S": "Maître des secouristes"
+ },
+ "5951": {
+  "N": "Lièvre"
+ },
+ "5952": {
+  "N": "Grunt de la tanière"
+ },
+ "5953": {
+  "N": "Grunt de Tranchecolline"
  },
  "599005": {
   "N": "Jynx"
@@ -27800,9 +28879,15 @@
  "612001": {
   "N": "Killjaeden"
  },
+ "6129": {
+  "N": "Seigneur-mage draconique"
+ },
  "612912": {
   "N": "Kodor le Voyant",
   "S": "Entraîneur de maître des runes"
+ },
+ "6145": {
+  "N": "Banc de poisson"
  },
  "616228": {
   "N": "Garde de l'aube d'argent",
@@ -27822,6 +28907,9 @@
  },
  "61883": {
   "N": "Bébé Saphir"
+ },
+ "620": {
+  "N": "Poulet"
  },
  "624379": {
   "N": "Ours de guerre Amani noir",
@@ -27866,6 +28954,9 @@
  "628466": {
   "N": "Lance-fruits Aroy"
  },
+ "6289": {
+  "S": "Maître des dépeceurs"
+ },
  "629": {
   "N": "Rikki"
  },
@@ -27877,6 +28968,9 @@
  },
  "63502": {
   "N": "Scorpion Ambre"
+ },
+ "639": {
+  "S": "Caïd défias"
  },
  "6396": {
   "N": "Jeune sauvageon"
@@ -27940,8 +29034,14 @@
  "64628": {
   "N": "Stalactite"
  },
+ "6487": {
+  "N": "Arcaniste Doan"
+ },
  "64899": {
   "N": "Petit dragon pandaren mécanique"
+ },
+ "6491": {
+  "N": "Gardien des âmes"
  },
  "649230": {
   "N": "Mage de bataille déchu"
@@ -27981,6 +29081,9 @@
  },
  "649329": {
   "N": "Factice RPG"
+ },
+ "6498": {
+  "N": "Diablosaure"
  },
  "650275": {
   "N": "Phinéas le Fervent",
@@ -28119,6 +29222,12 @@
  },
  "654815": {
   "N": "Yéti mort"
+ },
+ "6560": {
+  "N": "Garde de pierre"
+ },
+ "658": {
+  "N": "Sten Rudebras"
  },
  "65899": {
   "N": "Jeune doré"
@@ -28343,6 +29452,9 @@
  "67833": {
   "N": "Cornélius"
  },
+ "6787": {
+  "N": "Yelnagi Branoir"
+ },
  "6788": {
   "N": "Mère de la tanière"
  },
@@ -28375,6 +29487,10 @@
  },
  "69204": {
   "N": "Engeance d'Horridon"
+ },
+ "6928": {
+  "N": "Grosk l'aubergiste",
+  "S": "Aubergiste"
  },
  "69420": {
   "N": "Taille-galets Kerg",
@@ -28467,6 +29583,12 @@
   "N": "Vieux Cromash",
   "S": "Grunt à la retraite"
  },
+ "704": {
+  "N": "Loup des bois décharné"
+ },
+ "705": {
+  "N": "Jeune loup décharné"
+ },
  "70524": {
   "N": "Direcorne primordial doré"
  },
@@ -28476,6 +29598,12 @@
  "705857": {
   "N": "Araignée de lave brûlante",
   "S": "L'ami de Garrik"
+ },
+ "7069": {
+  "N": "Moine condamné"
+ },
+ "707": {
+  "N": "Trogg mâcheroc"
  },
  "707235": {
   "N": "Visuel du grand rayon de lune",
@@ -28500,6 +29628,9 @@
  "707535": {
   "N": "Visuel de tornade d'eau",
   "S": "Frey VFX"
+ },
+ "708": {
+  "N": "Petit sanglier des rochers"
  },
  "7091106": {
   "N": "Chaise de plage Azzar Faire"
@@ -28654,8 +29785,14 @@
  "7091210": {
   "N": "Holo-Ailes Ivoire"
  },
+ "713": {
+  "N": "Balir Martel-de-Givre"
+ },
  "713002": {
   "N": "Renthar"
+ },
+ "7136": {
+  "N": "Infernal Sentinelle"
  },
  "714504": {
   "N": "Ziki"
@@ -28714,6 +29851,9 @@
   "N": "Infâme boucher",
   "S": "Culte des damnés"
  },
+ "721": {
+  "N": "Lapin"
+ },
  "721111": {
   "N": "Biscuit"
  },
@@ -28723,11 +29863,23 @@
  "7238": {
   "N": "Clepto le coupe-cartes"
  },
+ "724": {
+  "N": "Trogg mâcheroc mastoc"
+ },
  "724496": {
   "N": "Tilly Maline"
  },
  "724497": {
   "N": "Caleb Maline"
+ },
+ "7267": {
+  "N": "Chef Ukorz Scalpessable"
+ },
+ "7288": {
+  "N": "Grand contremaître Puzik Bisbiwix"
+ },
+ "731": {
+  "N": "Roi Bangalash"
  },
  "73393": {
   "N": "Adyen le gardien de lumière"
@@ -28808,6 +29960,9 @@
  "73480": {
   "N": "Micha"
  },
+ "7358": {
+  "N": "Amnennar le Porte-Froid"
+ },
  "739016": {
   "N": "Gangregarde du Néant distordu"
  },
@@ -28836,6 +29991,9 @@
  },
  "74491": {
   "N": "Manafien sacré"
+ },
+ "745": {
+  "N": "Capitaine Plaiedécaille"
  },
  "749121": {
   "N": "Lanceur de haches de la Légion d'Orgrimmar"
@@ -30487,6 +31645,12 @@
  "765827": {
   "N": "Malgruk le Gangre-Touché"
  },
+ "7665": {
+  "N": "Grol le Destructeur"
+ },
+ "7666": {
+  "N": "Archimage Allistarj"
+ },
  "766925": {
   "N": "Mannequin d'entraînement Outland Execute",
   "S": "Steamwheedle.Co - Modèle #273 - Édition Warrior"
@@ -30633,6 +31797,9 @@
  "778096": {
   "N": "Protecteur du peuple",
   "S": "La milice populaire"
+ },
+ "7800": {
+  "N": "Mekgénieur Thermojoncteur"
  },
  "780000": {
   "N": "Déclencheur sacré de Hearthstone"
@@ -31093,6 +32260,12 @@
  "793000": {
   "N": "Kimberly Spencer",
   "S": "Forgeron d'armes exotiques"
+ },
+ "7952": {
+  "S": "Dresseur de raptors"
+ },
+ "7953": {
+  "S": "Instructrice de monte"
  },
  "797": {
   "N": "Béo"
@@ -32032,6 +33205,9 @@
  "811744": {
   "N": "Stormer surpuissant"
  },
+ "8119": {
+  "S": "Banquier"
+ },
  "81196": {
   "N": "Bête sorcière"
  },
@@ -32174,6 +33350,10 @@
  },
  "82896": {
   "N": "Poing américain défias"
+ },
+ "829": {
+  "N": "Adlin Fièroblique",
+  "S": "Fournitures générales"
  },
  "82931": {
   "N": "Messager défias"
@@ -32871,6 +34051,9 @@
   "N": "Bip Nigstrom",
   "S": "Organisateur d'arène"
  },
+ "8416": {
+  "N": "Felix Chouineboulon"
+ },
  "842005": {
   "N": "Première mondiale Zul'Jin (25 joueurs élevés)",
   "S": "<Travailler en tant qu'Élu>"
@@ -33076,6 +34259,10 @@
  "8477": {
   "N": "Serviteur squelettique invoqué"
  },
+ "8496": {
+  "N": "Liv Rafistolier",
+  "S": "Assistante de l'atelier"
+ },
  "84988": {
   "N": "Maître des bêtes Tivan",
   "S": "Le collectionneur"
@@ -33131,6 +34318,9 @@
  },
  "852055": {
   "N": "Slime gluant"
+ },
+ "853": {
+  "N": "Montagnard des Frigères"
  },
  "8545": {
   "N": "Abomination"
@@ -33571,6 +34761,9 @@
  "9016396": {
   "N": "Thorgrym solitaire",
   "S": "Messager de l'Alliance"
+ },
+ "9019": {
+  "N": "Empereur Dagran Thaurissan"
  },
  "90248": {
   "N": "Arktos"
@@ -34494,6 +35687,9 @@
  "933271": {
   "N": "Mande-tempête tranchecrin"
  },
+ "9336": {
+  "N": "Chef Cuivroncteur"
+ },
  "940029": {
   "N": "Frappe météore"
  },
@@ -34529,6 +35725,10 @@
   "N": "La Première Dame du monde Vashj est élevée (25 joueurs)",
   "S": "<La RUCHE>"
  },
+ "945": {
+  "N": "Rybrad Rivefroide",
+  "S": "Fabricant d'armes"
+ },
  "950192": {
   "N": "REGARDEZ-MOI! (Chromaggus) (2)"
  },
@@ -34555,6 +35755,13 @@
  },
  "955350": {
   "N": "Lutin sauvage"
+ },
+ "9558": {
+  "N": "Rouspet",
+  "S": "Capitaine du port"
+ },
+ "9568": {
+  "N": "Seigneur Wyrmthalak"
  },
  "960124": {
   "N": "Puits de lumière"
@@ -35878,6 +37085,9 @@
  "99799": {
   "N": "Sélecteur de débogage Vortex",
   "S": "Tests de rencontre"
+ },
+ "9987": {
+  "S": "Maître des écuries"
  },
  "9990001": {
   "N": "Teri Glozilk",

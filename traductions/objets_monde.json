@@ -2438,6 +2438,18 @@
  "161": {
   "N": "Flacon de Poison Grand 2"
  },
+ "1617": {
+  "N": "Feuillargent"
+ },
+ "1618": {
+  "N": "Pacifique"
+ },
+ "1619": {
+  "N": "Terrestrine"
+ },
+ "1620": {
+  "N": "Mage royal"
+ },
  "1631": {
   "N": "Moulins d'Agamand"
  },
@@ -2470,6 +2482,9 @@
  },
  "17189": {
   "N": "La chute d'Ameth'Aran"
+ },
+ "171938": {
+  "N": "Pomme de cactus"
  },
  "1720": {
   "N": "Le plat de Stanley"
@@ -2527,6 +2542,9 @@
  },
  "175432": {
   "N": "Levier"
+ },
+ "175566": {
+  "N": "Herbe des ténèbres"
  },
  "175590": {
   "N": "Piège à oeufs d'araignée Spire"
@@ -2930,6 +2948,9 @@
  "176750": {
   "N": "Os de Kodo"
  },
+ "176753": {
+  "N": "Herbe maléfique"
+ },
  "176903": {
   "N": "Porte de véranda"
  },
@@ -2944,6 +2965,9 @@
  },
  "177274": {
   "N": "Puits de lune"
+ },
+ "178087": {
+  "N": "Pioche de Thazz'ril"
  },
  "178124": {
   "N": "Cristal de résonite (Piège"
@@ -4979,6 +5003,9 @@
  "20352": {
   "N": "Cercle d'emprisonnement"
  },
+ "2045": {
+  "N": "Etouffante"
+ },
  "206": {
   "N": "TAURENKODOHIDE"
  },
@@ -5089,6 +5116,9 @@
  },
  "212921": {
   "N": "pa_shadowpandoor"
+ },
+ "21530": {
+  "N": "Manuel d'utilisateur de Sniffetarin"
  },
  "2154523": {
   "N": "RECHERCHE : Krelin, le Swashbuckler"
@@ -10027,6 +10057,9 @@
  },
  "37": {
   "N": "La pierre tombale d'Eliza"
+ },
+ "375": {
+  "N": "Potiron de Tirisfal"
  },
  "375003": {
   "N": "Sacoche d'expédition"

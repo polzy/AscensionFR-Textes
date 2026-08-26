@@ -1917,6 +1917,9 @@
   "O": "Escortez Aile-du-ciel et allez voir Rilak le Racheté à Shattrath.",
   "T": "Aile du ciel"
  },
+ "1096": {
+  "T": "Gerenzo Siffleclef"
+ },
  "10966": {
   "A": "Retournez voir Miss Hérikorde, directrice de l'orphelinat à Shattrath.",
   "D": "Mince alors ! Je crois que c'est l'heure de rentrer à l'orphelinat de Shattrath.$B$BJe me suis tellement amusée. Vous êtes la personne la plus chouette de tout l'univers, $n ! Vous êtes $gmon grand frère:ma grande sœur; maintenant !$B$B<Les yeux de Dornaa commencent à se remplir de larmes.>$B$BVous allez tellement me manquer !!! Quand je serai grande, je veux être exactement comme vous !!!",
@@ -8986,6 +8989,9 @@
  "263": {
   "R": "Bravo Danlemain !  Vous avez fait preuve d'un courage extraordinaire sur le champ de bataille.  Notre guerre contre les Troggs sera gagnée grâce à des efforts comme les vôtres.  Vous avez bien servi le roi Magni.\n\nSi vous pensez être parfaitement adapté à ce genre d'aventure, je vous suggère de parler à l'alpiniste Gravelgaw.  Le capitaine l'a assigné à une patrouille difficile pour laquelle, je suis sûr, il aura besoin d'aide.  Vérifiez auprès de Gravelgaw juste à l’intérieur de la tour."
  },
+ "2662": {
+  "T": "Elixir Brouillecaboche"
+ },
  "267": {
   "P": "Avez-vous 8 dents de pierre Trogg à me montrer ?  Sinon, il y a encore du travail à faire, Danlemain.",
   "R": "Je suis assez impressionné, Danlemain.  Vous avez rendu un grand service à la race naine en défendant nos terres.  Le roi Magni Barbe-de-Bronze lui-même serait fier !"
@@ -10161,6 +10167,9 @@
   "P": "Avez-vous déjà cinq peaux de chauve-souris crépusculaire et du fil grossier, $n ?",
   "R": "J'apprécie vos efforts, $n. Puisse Slyvanas reconnaître un jour votre courage. . . ."
  },
+ "376": {
+  "T": "Le Damné"
+ },
  "3861": {
   "A": "Retournez voir le Poulet.",
   "D": "« Lit bébé... lit bébé... lit bébé... CODEEEC !$B$BLit bébé... lit bébé... lit bébé. »$B$BLa poule vous regarde puis commence à griffer la terre. On dirait qu'elle est en train d'écrire un mot sur le sol. Est-ce que cela pourrait être... S-A-L-D-E-A-N ? Avant que vous ne puissiez demander quoi que ce soit, la poule s'ébroue et retourne vaquer à ses occupations.",
@@ -11129,7 +11138,8 @@
  },
  "5482": {
   "P": "Il vaudrait mieux que ce soit bon. J'espère que vous avez toute l'herbe fatale dont j'ai besoin ?",
-  "R": "Ah, ma mauvaise herbe. Excellent!\n\n<L'apothicaire junior Holland se frotte les mains avec avidité>\n\nCeux-ci seront très utiles. Vous m'avez rendu, euh, la Dame, un beau service aujourd'hui $n. Comme promis, voici la récompense que vous méritez."
+  "R": "Ah, ma mauvaise herbe. Excellent!\n\n<L'apothicaire junior Holland se frotte les mains avec avidité>\n\nCeux-ci seront très utiles. Vous m'avez rendu, euh, la Dame, un beau service aujourd'hui $n. Comme promis, voici la récompense que vous méritez.",
+  "T": "Herbe maléfique"
  },
  "550": {
   "A": "Retournez voir Varimathras à Fossoyeuse.",
@@ -12143,6 +12153,9 @@
   "P": "Que puis-je faire pour vous, monsieur ?",
   "R": "Ah, la dernière liste des meilleurs élèves de Brock. J'ai un lot de choix honorifiques prêts à partir. Il ne me reste plus qu'à graver les noms des élèves..."
  },
+ "6394": {
+  "T": "Pioche de Thazz'ril"
+ },
  "650142": {
   "A": "Cherchez Aramadus à Shadowglen.",
   "D": "On m'a demandé de porter ceci à votre attention, $N. Il semble que ce soit un parchemin cramoisi taché de ce qui ressemble étrangement à du sang. Le parchemin vibre en rythme avec des énergies magiques sombres, et il semble provenir d'Aramadus, le mage de sang qui pratique ces arts interdits à Shadowglen. Je n'hésiterais pas à le lire avant que vous continuiez vos fonctions ici.",
@@ -12630,6 +12643,9 @@
   "P": "La carapace d'un scorpide n'est pas si épaisse que la force d'un mage de sang déterminé soit dissuadée. Frappez fort et sans aucun doute, et les scorpides devraient se révéler des proies faciles.",
   "R": "Il y a une leçon importante que vous devez retenir de la lutte contre les scorpides. Le plus petit ou le plus grand des adversaires peut toujours vous envoyer à votre perte. Dans un combat acharné, de nombreuses choses peuvent prouver votre chute.\n\nJe n'ai plus rien à t'apprendre, Danlesanguin. Vous avez bien fait et je suivrai vos progrès avec intérêt."
  },
+ "794": {
+  "T": "Médaillon de la Lame ardente"
+ },
  "7946": {
   "A": "Retournez voir Morja.",
   "T": "Le rejeton de Jubjub"
@@ -12745,6 +12761,9 @@
   "D": "Une commande de réquisition a été passée pour 5 rôtis d'hiver. Seul un artisan expert utilisant des matériaux obtenus à haut risque peut créer ces objets de valeur.",
   "O": "Récupérez 5 rôtis d’hiver fondus.",
   "T": "Marchand d'armes : rôti d'hiver fondu"
+ },
+ "808": {
+  "T": "Crâne de Minshina"
  },
  "80802": {
   "A": "Retournez au tableau d’appel.",
